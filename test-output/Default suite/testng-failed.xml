@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.naveenautomation.pagechaining.tests.RegistrationConfirmationTest">
+      <class name="com.naveenautomation.pagechaining.tests.ReturnPageTest">
         <methods>
           <include name="setUpLogger"/>
-          <include name="validateRegistration"/>
+          <include name="validateReturnPageNavigation"/>
           <include name="launchBrowser"/>
         </methods>
-      </class> <!-- com.naveenautomation.pagechaining.tests.RegistrationConfirmationTest -->
+      </class> <!-- com.naveenautomation.pagechaining.tests.ReturnPageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
