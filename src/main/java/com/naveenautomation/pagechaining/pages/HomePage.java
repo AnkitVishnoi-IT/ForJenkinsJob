@@ -86,13 +86,13 @@ public class HomePage extends TestBase {
 																		// well
 	WebElement aboutUsLink;
 
-	@FindBy(xpath = "div.row>div:first-of-type>ul>li:nth-of-type(2)>a")
+	@FindBy(css = "div.col-sm-3>ul.list-unstyled>li:nth-of-type(2)>a")
 	WebElement deliveryInformationLink;
 
-	@FindBy(xpath = "div.row>div:first-of-type>ul>li:nth-of-type(3)>a")
+	@FindBy(css = "div.row>div:first-of-type>ul>li:nth-of-type(3)>a")
 	WebElement privacyPolicyLink;
 
-	@FindBy(xpath = "div.row>div:first-of-type>ul>li:nth-of-type(4)>a")
+	@FindBy(css = "div.row>div:first-of-type>ul>li:nth-of-type(4)>a")
 	WebElement termsNConfLink;
 
 	@FindBy(css = "div.row>div:nth-of-type(2)>ul.list-unstyled>li:first-of-type>a")

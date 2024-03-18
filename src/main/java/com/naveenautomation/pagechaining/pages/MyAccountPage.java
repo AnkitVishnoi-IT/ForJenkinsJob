@@ -40,6 +40,12 @@ public class MyAccountPage extends TestBase {
 
 	@FindBy(css = "#menu>div>ul>li>div>a")
 	private List<WebElement> showAllInCategoryLink;
+	
+	@FindBy(css = "#menu .dropdown:first-of-type>a")
+	WebElement desktopsLink;
+	
+	@FindBy(css = "#menu>div>ul>li:first-of-type>div>a")
+	WebElement showAllInDesktopDropDown;
 
 //			@FindBy(css = "#menu .dropdown:first-of-type>a")
 //			private WebElement desktopsLink;
@@ -161,12 +167,8 @@ public class MyAccountPage extends TestBase {
 	}
 
 	public DesktopPage clickShowAllDesktop(String category) {
-		for (int i = 0; i < showAllInCategoryLink.size(); i++) {
-			if (showAllInCategoryLink.get(i).getText().equalsIgnoreCase(category)) {
-				showAllInCategoryLink.get(i).click();
-				break;
-			}
-		}
+		desktopsLink.click();
+		showAllInDesktopDropDown.click();
 		return new DesktopPage();
 	}
 

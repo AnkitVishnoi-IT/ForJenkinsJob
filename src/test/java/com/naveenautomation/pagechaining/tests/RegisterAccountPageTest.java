@@ -5,6 +5,7 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import com.naveenautomation.pagechaining.pages.AccountLoginPage;
+import com.naveenautomation.pagechaining.pages.HomePage;
 import com.naveenautomation.pagechaining.pages.NewAccountConfirmationPage;
 import com.naveenautomation.pagechaining.pages.RegisterAccountPage;
 import com.naveenautomation.pagechaining.testbase.TestBase;
@@ -12,21 +13,23 @@ import com.naveenautomation.pagechaining.utility.Utility;
 
 public class RegisterAccountPageTest extends TestBase {
 
-	AccountLoginPage loginPage;
+	HomePage homePage;
+	AccountLoginPage acctLoginPage;
 	RegisterAccountPage newRegistration;
 	NewAccountConfirmationPage newActCfmPage;
 
 	@BeforeMethod
 	public void launchBrowser() {
 		initialisation();
-		loginPage = new AccountLoginPage();
+		homePage = new HomePage();
 	}
 
 	@Test
 	public void validateRegistration() {
-
-		loginPage.clickRegisterationBtn();
-		newRegistration = new RegisterAccountPage();
+		
+		homePage = new HomePage();
+		acctLoginPage = homePage.clickMyAccountLink();
+		newRegistration = acctLoginPage.clickRegisterationBtn();
 
 //		newActCfmPage = newRegistration.registerAccount(Utility.generateRandomString(6), Utility.generateRandomString(6), Utility.generateRandomPh(), Utility.generateRandomEmail(), "P@ssword1");
 //			above is giving unknown error: msedgedriver only supports characters in the BMP

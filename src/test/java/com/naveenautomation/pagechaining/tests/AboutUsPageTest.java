@@ -25,7 +25,7 @@ public class AboutUsPageTest extends TestBase {
 		homePage = new HomePage();
 		aboutUsPage = homePage.clickAboutUsLink();
 		String aboutUsHeaderText = aboutUsPage.getAboutUsHeaderText();
-		Assert.assertEquals(aboutUsHeaderText.trim(), "About Us?");
+		Assert.assertEquals(aboutUsHeaderText.trim(), "About Us");
 	}
 
 //	@AfterMethod

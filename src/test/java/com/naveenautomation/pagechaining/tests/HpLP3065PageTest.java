@@ -24,10 +24,11 @@ public class HpLP3065PageTest extends TestBase {
 
 	}
 
-	@Test(enabled = false)
+	@Test(enabled=false)
 
 	public void validateProductAddedToCart() {
-		acctLoginPage = homePage.clickNewsLetterLink();
+		homePage = new HomePage();
+		acctLoginPage = homePage.clickMyAccountLink();
 		myAcctPage = acctLoginPage.submitLogin("ankitv@gmail.com", "P@ssw0rd");
 		desktopPage = myAcctPage.clickShowAllDesktop("Desktop");
 		hpPage = desktopPage.clickOnDesktop();

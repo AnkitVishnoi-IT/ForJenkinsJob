@@ -8,18 +8,20 @@ import org.testng.annotations.Test;
 import com.naveenautomation.pagechaining.testbase.TestBase;
 import com.naveenautomation.pagechaining.pages.AccountLoginPage;
 import com.naveenautomation.pagechaining.pages.ChangePwdPage;
+import com.naveenautomation.pagechaining.pages.HomePage;
 import com.naveenautomation.pagechaining.pages.MyAccountPage;
 
 public class MyAccountPageTest extends TestBase {
 
-	AccountLoginPage loginPage;
+	HomePage homePage;
+	AccountLoginPage acctLoginPage;
 	MyAccountPage myAccountPage;
 	ChangePwdPage changePwdPage;
 
 	@BeforeMethod
 	public void launchBrowser() {
 		initialisation();
-		loginPage = new AccountLoginPage();
+		homePage = new HomePage();
 	}
 
 	
@@ -28,7 +30,8 @@ public class MyAccountPageTest extends TestBase {
 	public void validatePasswordUpdate() {
 
 		// Login in
-		myAccountPage = loginPage.submitLogin("mansan@gmail.com", "Password2");
+		acctLoginPage = homePage.clickMyAccountLink();
+		myAccountPage = acctLoginPage.submitLogin("ankitv@gmail.com", "P@ssw0rd");
 		// Updating Password
 		changePwdPage = myAccountPage.clickChangePasswordBtn();
 		// Updating Password
