@@ -26,15 +26,15 @@ public class NewsLetterSubscribeTest extends TestBase{
 		public void subscribeNewsLetter() {
 			homePage = new HomePage();
 			acctLoginPage = homePage.clickNewsLetterLink();
-			newsLetterPage = acctLoginPage.submitLoginForNewsLetterLink("ankitv@gmail.com", "P@ssw0rd");
+			newsLetterPage = acctLoginPage.submitLoginForNewsLetterLink("av@gmail.com", "P@ssw0rd");
 			myAcctPage = newsLetterPage.subscribeNewsLetter();
 			String bannerText = myAcctPage.getSuccessBannerText();
 			Assert.assertEquals(bannerText, "Success: Your newsletter subscription has been successfully updated!");
 		}
 
-//		@AfterMethod
-//		public void closeBrowser() {
-//			tearDown();
-//		}
+		@AfterMethod
+		public void closeBrowser() {
+			tearDown();
+		}
 
 }

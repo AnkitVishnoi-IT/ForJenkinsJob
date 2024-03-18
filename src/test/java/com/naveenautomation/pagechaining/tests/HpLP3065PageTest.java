@@ -1,6 +1,7 @@
 package com.naveenautomation.pagechaining.tests;
 
 import org.testng.Assert;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
@@ -29,12 +30,17 @@ public class HpLP3065PageTest extends TestBase {
 	public void validateProductAddedToCart() {
 		homePage = new HomePage();
 		acctLoginPage = homePage.clickMyAccountLink();
-		myAcctPage = acctLoginPage.submitLogin("ankitv@gmail.com", "P@ssw0rd");
+		myAcctPage = acctLoginPage.submitLogin("av@gmail.com", "P@ssw0rd");
 		desktopPage = myAcctPage.clickShowAllDesktop("Desktop");
 		hpPage = desktopPage.clickOnDesktop();
 		String hpPageHeaderText = hpPage.clickOnaddToCartButton();
 		Assert.assertEquals(hpPageHeaderText, hpPageHeaderText);
 
+	}
+	
+	@AfterMethod
+	public void closeBrowser() {
+		tearDown();
 	}
 
 }

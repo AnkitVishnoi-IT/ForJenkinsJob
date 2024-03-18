@@ -31,11 +31,11 @@ public class MyAccountPageTest extends TestBase {
 
 		// Login in
 		acctLoginPage = homePage.clickMyAccountLink();
-		myAccountPage = acctLoginPage.submitLogin("ankitv@gmail.com", "Password2");
+		myAccountPage = acctLoginPage.submitLogin("av@gmail.com", "P@ssw0rd");
 		// Updating Password
 		changePwdPage = myAccountPage.clickChangePasswordBtn();
 		// Updating Password
-		myAccountPage = changePwdPage.updatePassword("P@ssw0rd", "P@ssw0rd");
+		myAccountPage = changePwdPage.updatePassword("P@ssw0rd1", "P@ssw0rd1");
 
 		String pwdAlertMessage = myAccountPage.getSuccessBannerText();
 

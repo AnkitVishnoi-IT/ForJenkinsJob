@@ -26,15 +26,15 @@ public class AccountLogoutPageTest extends TestBase {
 	public void validateLogin() {
 		homePage = new HomePage();
 		acctPage = homePage.clickMyAccountLink();
-		myAccountPage = acctPage.submitLogin("ankitv@gmail.com", "P@ssw0rd");
+		myAccountPage = acctPage.submitLogin("av@gmail.com", "P@ssw0rd");
 		acctLogoutPage = myAccountPage.clickLogOutBtn();
 		String myAccountText = acctLogoutPage.getAccountLogoutSuccessText();
 		Assert.assertEquals(myAccountText.trim(), "Account Logout");
 	}
 
-//	@AfterMethod
-//	public void closeBrowser() {
-//		tearDown();
-//	}
+	@AfterMethod
+	public void closeBrowser() {
+		tearDown();
+	}
 
 }

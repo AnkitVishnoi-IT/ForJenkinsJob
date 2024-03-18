@@ -1,6 +1,7 @@
 package com.naveenautomation.pagechaining.tests;
 
 import org.testng.Assert;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
@@ -26,15 +27,15 @@ public class RewardPointsPageTest extends TestBase {
 	public void validateNewsLetterPageNavigation() {
 		homePage = new HomePage();
 		acctLoginPage = homePage.clickMyAccountLink();
-		myAcctPage = acctLoginPage.submitLogin("ankitv@gmail.com", "P@ssw0rd");
+		myAcctPage = acctLoginPage.submitLogin("av@gmail.com", "P@ssw0rd");
 		rewardPointsPage = myAcctPage.clickRewardPointsInSideNavMenu("Reward Points");
 		String rewardPointsHeaderText = rewardPointsPage.getRewardPointsHeaderText();
 		Assert.assertEquals(rewardPointsHeaderText.trim(), "Your Reward Points");
 	}
 
-//	@AfterMethod
-//	public void closeBrowser() {
-//		tearDown();
-//	}
+	@AfterMethod
+	public void closeBrowser() {
+		tearDown();
+	}
 
 }

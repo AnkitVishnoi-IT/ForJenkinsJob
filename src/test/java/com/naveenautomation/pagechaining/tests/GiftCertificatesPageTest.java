@@ -45,9 +45,9 @@ public class GiftCertificatesPageTest extends TestBase {
 
 	}
 
-//	@AfterMethod
-//	public void closeBrowser() {
-//		tearDown();
-//	}
+	@AfterMethod
+	public void closeBrowser() {
+		tearDown();
+	}
 
 }

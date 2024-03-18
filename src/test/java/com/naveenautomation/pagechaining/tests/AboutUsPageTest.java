@@ -28,9 +28,9 @@ public class AboutUsPageTest extends TestBase {
 		Assert.assertEquals(aboutUsHeaderText.trim(), "About Us");
 	}
 
-//	@AfterMethod
-//	public void closeBrowser() {
-//		tearDown();
-//	}
+	@AfterMethod
+	public void closeBrowser() {
+		tearDown();
+	}
 
 }

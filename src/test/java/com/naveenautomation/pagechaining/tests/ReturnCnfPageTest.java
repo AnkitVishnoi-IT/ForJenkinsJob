@@ -1,6 +1,7 @@
 package com.naveenautomation.pagechaining.tests;
 
 import org.testng.Assert;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import com.naveenautomation.pagechaining.pages.HomePage;
@@ -29,5 +30,10 @@ public class ReturnCnfPageTest extends TestBase {
 
 		String returnCnfText = returnCnfPage.getReturnCnfText();
 		Assert.assertEquals(returnCnfText.trim(), "Thank you for submitting your return request. Your request has been sent to the relevant department for processing.");
+	}
+	
+	@AfterMethod
+	public void closeBrowser() {
+		tearDown();
 	}
 }

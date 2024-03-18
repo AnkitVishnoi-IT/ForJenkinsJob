@@ -1,6 +1,7 @@
 package com.naveenautomation.pagechaining.tests;
 
 import org.testng.Assert;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import com.naveenautomation.pagechaining.pages.HomePage;
@@ -25,9 +26,9 @@ public class SpecialOfferPageTest extends TestBase {
 		Assert.assertEquals(specialsPageHeaderText.trim(), "Special Offers");
 	}
 
-//	@AfterMethod
-//	public void closeBrowser() {
-//		tearDown();
-//	}
+	@AfterMethod
+	public void closeBrowser() {
+		tearDown();
+	}
 
 }

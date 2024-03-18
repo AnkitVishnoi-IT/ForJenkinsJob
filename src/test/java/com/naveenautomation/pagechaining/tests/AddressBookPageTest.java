@@ -30,7 +30,7 @@ public class AddressBookPageTest extends TestBase {
 	public void validateAddNewAddress() {
 		
 		loginPage = home.clickMyAccountLink();
-		myAccountPage =loginPage.submitLogin("ankitv@gmail.com", "P@ssw0rd");
+		myAccountPage =loginPage.submitLogin("av@gmail.com", "P@ssw0rd");
 		addressBookPage = myAccountPage.clickAddressBookInSideNavMenu("Address Book");
 		addAddressPage = addressBookPage.clickNewAddressBtn();
 		addressBookPage = addAddressPage.SubmitAddress(RandomStringUtils.randomAlphabetic(10), RandomStringUtils.randomAlphabetic(10), RandomStringUtils.randomAlphabetic(10), RandomStringUtils.randomAlphabetic(8),
@@ -39,9 +39,9 @@ public class AddressBookPageTest extends TestBase {
 		Assert.assertEquals(bannerText, "Your address has been successfully added");
 	}
 
-//	@AfterMethod
-//	public void closeBrowser() {
-//		tearDown();
-//	}
+	@AfterMethod
+	public void closeBrowser() {
+		tearDown();
+	}
 
 }

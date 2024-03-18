@@ -25,14 +25,14 @@ public class AccountLoginPageTest extends TestBase {
 	public void validateLogin() {
 		home = new HomePage();
 		loginPage = home.clickMyAccountLink();
-		myAccountPage =loginPage.submitLogin("ankitv@gmail.com", "P@ssw0rd");
+		myAccountPage =loginPage.submitLogin("av@gmail.com", "P@ssw0rd");
 		String myAccountText = myAccountPage.getMyAccountText();
 		Assert.assertEquals(myAccountText.trim(), "My Account");
 	}
 
-//	@AfterMethod
-//	public void closeBrowser() {
-//		tearDown();
-//	}
+	@AfterMethod
+	public void closeBrowser() {
+		tearDown();
+	}
 
 }

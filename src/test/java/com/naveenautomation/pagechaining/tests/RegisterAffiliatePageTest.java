@@ -2,6 +2,7 @@ package com.naveenautomation.pagechaining.tests;
 
 import org.apache.commons.lang3.RandomStringUtils;
 import org.testng.Assert;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 import com.naveenautomation.pagechaining.pages.AffiliateLoginPage;
@@ -35,5 +36,10 @@ public class RegisterAffiliatePageTest extends TestBase {
 				RandomStringUtils.randomNumeric(4), RandomStringUtils.randomAlphabetic(5), "Password");
 		String newAffiliateText = newAffiliateCfmPage.getNewAffiliateText();
 		Assert.assertEquals(newAffiliateText.trim(), "Your Affiliate Account Has Been Created!");
+	}
+	
+	@AfterMethod
+	public void closeBrowser() {
+		tearDown();
 	}
 }

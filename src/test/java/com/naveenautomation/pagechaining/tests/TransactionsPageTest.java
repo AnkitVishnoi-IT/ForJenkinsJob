@@ -1,6 +1,7 @@
 package com.naveenautomation.pagechaining.tests;
 
 import org.testng.Assert;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
@@ -26,15 +27,15 @@ public class TransactionsPageTest extends TestBase {
 	public void validateNewsLetterPageNavigation() {
 		homePage = new HomePage();
 		acctLoginPage = homePage.clickMyAccountLink();
-		myAcctPage = acctLoginPage.submitLogin("ankitv@gmail.com", "P@ssw0rd");
+		myAcctPage = acctLoginPage.submitLogin("av@gmail.com", "P@ssw0rd");
 		transactionsPage = myAcctPage.clickTransactionsInSideNavMenu("Transactions");
 		String transactionsHeaderText = transactionsPage.getTransactionsHeaderText();
 		Assert.assertEquals(transactionsHeaderText.trim(), "Your Transactions");
 	}
 
-//	@AfterMethod
-//	public void closeBrowser() {
-//		tearDown();
-//	}
+	@AfterMethod
+	public void closeBrowser() {
+		tearDown();
+	}
 
 }
