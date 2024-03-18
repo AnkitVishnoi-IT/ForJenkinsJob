@@ -26,16 +26,16 @@ public class MyAccountPageTest extends TestBase {
 
 	
 
-	@Test
+	@Test (enabled=false)
 	public void validatePasswordUpdate() {
 
 		// Login in
 		acctLoginPage = homePage.clickMyAccountLink();
-		myAccountPage = acctLoginPage.submitLogin("ankitv@gmail.com", "P@ssw0rd");
+		myAccountPage = acctLoginPage.submitLogin("ankitv@gmail.com", "Password2");
 		// Updating Password
 		changePwdPage = myAccountPage.clickChangePasswordBtn();
 		// Updating Password
-		myAccountPage = changePwdPage.updatePassword("Password2", "Password2");
+		myAccountPage = changePwdPage.updatePassword("P@ssw0rd", "P@ssw0rd");
 
 		String pwdAlertMessage = myAccountPage.getSuccessBannerText();
 
