@@ -1,0 +1,1353 @@
+2024-03-10 00:06:08 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 00:06:08 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 00:06:11 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 00:06:11 INFO  TestBase:79 - Finding element by : By.id: input-firstname
+2024-03-10 00:06:11 INFO  TestBase:85 - Found element by : By.id: input-firstname
+2024-03-10 00:09:00 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 00:09:00 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 00:09:02 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 00:09:03 INFO  TestBase:79 - Finding element by : By.id: input-firstname
+2024-03-10 00:09:03 INFO  TestBase:85 - Found element by : By.id: input-firstname
+2024-03-10 00:12:49 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 00:12:49 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 00:12:52 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 00:12:52 INFO  TestBase:79 - Finding element by : By.id: input-firstname
+2024-03-10 00:12:52 INFO  TestBase:85 - Found element by : By.id: input-firstname
+2024-03-10 00:20:07 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 00:20:07 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 00:20:10 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 00:20:10 INFO  TestBase:79 - Finding element by : By.id: input-firstname
+2024-03-10 00:20:10 INFO  TestBase:85 - Found element by : By.id: input-firstname
+2024-03-10 00:48:57 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 00:48:57 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 00:49:00 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 00:49:00 INFO  TestBase:79 - Finding element by : By.id: input-firstname
+2024-03-10 00:49:00 INFO  TestBase:85 - Found element by : By.id: input-firstname
+2024-03-10 00:53:38 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 00:53:38 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 00:53:41 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 00:53:42 INFO  TestBase:79 - Finding element by : By.id: input-firstname
+2024-03-10 00:53:42 INFO  TestBase:85 - Found element by : By.id: input-firstname
+2024-03-10 00:58:20 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 00:58:20 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 00:58:23 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 00:58:23 INFO  TestBase:79 - Finding element by : By.id: input-firstname
+2024-03-10 00:58:23 INFO  TestBase:85 - Found element by : By.id: input-firstname
+2024-03-10 00:58:24 INFO  TestBase:79 - Finding element by : By.id: input-lastname
+2024-03-10 00:58:24 INFO  TestBase:85 - Found element by : By.id: input-lastname
+2024-03-10 00:58:24 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-10 00:58:24 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-10 00:58:24 INFO  TestBase:79 - Finding element by : By.id: input-telephone
+2024-03-10 00:58:24 INFO  TestBase:85 - Found element by : By.id: input-telephone
+2024-03-10 00:58:24 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-10 00:58:24 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-10 00:58:24 INFO  TestBase:79 - Finding element by : By.id: input-confirm
+2024-03-10 00:58:24 INFO  TestBase:85 - Found element by : By.id: input-confirm
+2024-03-10 00:58:24 INFO  TestBase:79 - Finding element by : By.cssSelector: .radio-inline [type = 'radio'][value='1']
+2024-03-10 00:58:24 INFO  TestBase:85 - Found element by : By.cssSelector: .radio-inline [type = 'radio'][value='1']
+2024-03-10 00:58:24 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (58812492daf63cded0d221e3501c193f)] -> css selector: .radio-inline [type = 'radio'][value='1']]
+2024-03-10 00:58:25 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 00:58:25 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 00:58:25 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (58812492daf63cded0d221e3501c193f)] -> css selector: [type = 'checkbox'][value='1']]
+2024-03-10 00:58:25 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 00:58:25 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 00:58:25 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (58812492daf63cded0d221e3501c193f)] -> css selector: [type = 'submit'][value='Continue']]
+2024-03-10 01:00:43 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 01:00:43 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 01:00:47 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 01:00:47 INFO  TestBase:79 - Finding element by : By.id: input-firstname
+2024-03-10 01:00:47 INFO  TestBase:85 - Found element by : By.id: input-firstname
+2024-03-10 01:00:47 INFO  TestBase:79 - Finding element by : By.id: input-lastname
+2024-03-10 01:00:47 INFO  TestBase:85 - Found element by : By.id: input-lastname
+2024-03-10 01:00:47 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-10 01:00:47 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-10 01:00:47 INFO  TestBase:79 - Finding element by : By.id: input-telephone
+2024-03-10 01:00:47 INFO  TestBase:85 - Found element by : By.id: input-telephone
+2024-03-10 01:00:48 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-10 01:00:48 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-10 01:00:48 INFO  TestBase:79 - Finding element by : By.id: input-confirm
+2024-03-10 01:00:48 INFO  TestBase:85 - Found element by : By.id: input-confirm
+2024-03-10 01:00:48 INFO  TestBase:79 - Finding element by : By.cssSelector: .radio-inline [type = 'radio'][value='1']
+2024-03-10 01:00:48 INFO  TestBase:85 - Found element by : By.cssSelector: .radio-inline [type = 'radio'][value='1']
+2024-03-10 01:00:48 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (777458691f2b4fb6e21824afca3f0b3e)] -> css selector: .radio-inline [type = 'radio'][value='1']]
+2024-03-10 01:00:48 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 01:00:48 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 01:00:48 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (777458691f2b4fb6e21824afca3f0b3e)] -> css selector: [type = 'checkbox'][value='1']]
+2024-03-10 01:00:48 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 01:00:48 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 01:00:48 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (777458691f2b4fb6e21824afca3f0b3e)] -> css selector: [type = 'submit'][value='Continue']]
+2024-03-10 01:46:26 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 01:46:26 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 01:46:31 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 01:46:31 INFO  TestBase:79 - Finding element by : By.id: input-firstname
+2024-03-10 01:46:31 INFO  TestBase:85 - Found element by : By.id: input-firstname
+2024-03-10 01:58:37 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 01:58:37 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 01:58:41 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 01:58:42 INFO  TestBase:79 - Finding element by : By.id: input-firstname
+2024-03-10 01:58:42 INFO  TestBase:85 - Found element by : By.id: input-firstname
+2024-03-10 01:58:42 INFO  TestBase:79 - Finding element by : By.id: input-lastname
+2024-03-10 01:58:42 INFO  TestBase:85 - Found element by : By.id: input-lastname
+2024-03-10 01:58:42 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-10 01:58:42 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-10 01:58:42 INFO  TestBase:79 - Finding element by : By.id: input-telephone
+2024-03-10 01:58:42 INFO  TestBase:85 - Found element by : By.id: input-telephone
+2024-03-10 01:58:42 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-10 01:58:42 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-10 01:58:42 INFO  TestBase:79 - Finding element by : By.id: input-confirm
+2024-03-10 01:58:42 INFO  TestBase:85 - Found element by : By.id: input-confirm
+2024-03-10 01:58:42 INFO  TestBase:79 - Finding element by : By.cssSelector: .radio-inline [type = 'radio'][value='1']
+2024-03-10 01:58:42 INFO  TestBase:85 - Found element by : By.cssSelector: .radio-inline [type = 'radio'][value='1']
+2024-03-10 01:58:42 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (fc1cc37fde4dba089ff22ade735b7bf3)] -> css selector: .radio-inline [type = 'radio'][value='1']]
+2024-03-10 01:58:43 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 01:58:43 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 01:58:43 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (fc1cc37fde4dba089ff22ade735b7bf3)] -> css selector: [type = 'checkbox'][value='1']]
+2024-03-10 01:58:43 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 01:58:43 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 01:58:43 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (fc1cc37fde4dba089ff22ade735b7bf3)] -> css selector: [type = 'submit'][value='Continue']]
+2024-03-10 03:42:01 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 03:42:01 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 03:42:04 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 03:42:04 INFO  TestBase:79 - Finding element by : By.id: input-firstname
+2024-03-10 03:42:04 INFO  TestBase:85 - Found element by : By.id: input-firstname
+2024-03-10 03:42:04 INFO  TestBase:79 - Finding element by : By.id: input-lastname
+2024-03-10 03:42:04 INFO  TestBase:85 - Found element by : By.id: input-lastname
+2024-03-10 03:42:04 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-10 03:42:04 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-10 03:42:05 INFO  TestBase:79 - Finding element by : By.id: input-telephone
+2024-03-10 03:42:05 INFO  TestBase:85 - Found element by : By.id: input-telephone
+2024-03-10 03:42:05 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-10 03:42:05 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-10 03:42:05 INFO  TestBase:79 - Finding element by : By.id: input-confirm
+2024-03-10 03:42:05 INFO  TestBase:85 - Found element by : By.id: input-confirm
+2024-03-10 03:42:05 INFO  TestBase:79 - Finding element by : By.cssSelector: .radio-inline [type = 'radio'][value='1']
+2024-03-10 03:42:05 INFO  TestBase:85 - Found element by : By.cssSelector: .radio-inline [type = 'radio'][value='1']
+2024-03-10 03:42:05 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (11e8e4731d988f5f47377704bb65884b)] -> css selector: .radio-inline [type = 'radio'][value='1']]
+2024-03-10 03:42:05 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 03:42:05 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 03:42:05 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (11e8e4731d988f5f47377704bb65884b)] -> css selector: [type = 'checkbox'][value='1']]
+2024-03-10 03:42:05 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 03:42:05 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 03:42:05 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (11e8e4731d988f5f47377704bb65884b)] -> css selector: [type = 'submit'][value='Continue']]
+2024-03-10 03:42:07 INFO  TestBase:79 - Finding element by : By.cssSelector: div#content>h1
+2024-03-10 03:42:07 INFO  TestBase:85 - Found element by : By.cssSelector: div#content>h1
+2024-03-10 03:42:07 INFO  TestBase:150 - Getting text from element  : Your Account Has Been Created!
+2024-03-10 03:42:07 INFO  TestBase:156 - Geot text from element  : Your Account Has Been Created!
+2024-03-10 03:42:34 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 03:42:34 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 03:42:37 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 03:42:37 INFO  TestBase:79 - Finding element by : By.id: input-firstname
+2024-03-10 03:42:37 INFO  TestBase:85 - Found element by : By.id: input-firstname
+2024-03-10 03:42:37 INFO  TestBase:79 - Finding element by : By.id: input-lastname
+2024-03-10 03:42:37 INFO  TestBase:85 - Found element by : By.id: input-lastname
+2024-03-10 03:42:37 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-10 03:42:37 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-10 03:42:37 INFO  TestBase:79 - Finding element by : By.id: input-telephone
+2024-03-10 03:42:38 INFO  TestBase:85 - Found element by : By.id: input-telephone
+2024-03-10 03:42:38 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-10 03:42:38 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-10 03:42:38 INFO  TestBase:79 - Finding element by : By.id: input-confirm
+2024-03-10 03:42:38 INFO  TestBase:85 - Found element by : By.id: input-confirm
+2024-03-10 03:42:38 INFO  TestBase:79 - Finding element by : By.cssSelector: .radio-inline [type = 'radio'][value='1']
+2024-03-10 03:42:38 INFO  TestBase:85 - Found element by : By.cssSelector: .radio-inline [type = 'radio'][value='1']
+2024-03-10 03:42:38 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (cc88ef260a830155725c453d485d69a0)] -> css selector: .radio-inline [type = 'radio'][value='1']]
+2024-03-10 03:42:38 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 03:42:38 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 03:42:38 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (cc88ef260a830155725c453d485d69a0)] -> css selector: [type = 'checkbox'][value='1']]
+2024-03-10 03:42:38 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 03:42:38 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 03:42:38 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (cc88ef260a830155725c453d485d69a0)] -> css selector: [type = 'submit'][value='Continue']]
+2024-03-10 03:42:39 INFO  TestBase:79 - Finding element by : By.cssSelector: div#content>h1
+2024-03-10 03:42:39 INFO  TestBase:85 - Found element by : By.cssSelector: div#content>h1
+2024-03-10 03:42:39 INFO  TestBase:150 - Getting text from element  : Your Account Has Been Created!
+2024-03-10 03:42:39 INFO  TestBase:156 - Geot text from element  : Your Account Has Been Created!
+2024-03-10 03:47:01 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 03:47:01 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 03:47:04 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 03:47:04 INFO  TestBase:79 - Finding element by : By.id: input-firstname
+2024-03-10 03:47:04 INFO  TestBase:85 - Found element by : By.id: input-firstname
+2024-03-10 03:47:05 INFO  TestBase:79 - Finding element by : By.id: input-lastname
+2024-03-10 03:47:05 INFO  TestBase:85 - Found element by : By.id: input-lastname
+2024-03-10 03:47:05 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-10 03:47:05 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-10 03:47:05 INFO  TestBase:79 - Finding element by : By.id: input-telephone
+2024-03-10 03:47:05 INFO  TestBase:85 - Found element by : By.id: input-telephone
+2024-03-10 03:47:05 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-10 03:47:05 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-10 03:47:06 INFO  TestBase:79 - Finding element by : By.id: input-confirm
+2024-03-10 03:47:06 INFO  TestBase:85 - Found element by : By.id: input-confirm
+2024-03-10 03:47:06 INFO  TestBase:79 - Finding element by : By.cssSelector: .radio-inline [type = 'radio'][value='1']
+2024-03-10 03:47:06 INFO  TestBase:85 - Found element by : By.cssSelector: .radio-inline [type = 'radio'][value='1']
+2024-03-10 03:47:06 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (16515a0516f3cb6cfdb748a29327808e)] -> css selector: .radio-inline [type = 'radio'][value='1']]
+2024-03-10 03:47:06 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 03:47:06 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 03:47:06 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (16515a0516f3cb6cfdb748a29327808e)] -> css selector: [type = 'checkbox'][value='1']]
+2024-03-10 03:47:06 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 03:47:06 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 03:47:06 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (16515a0516f3cb6cfdb748a29327808e)] -> css selector: [type = 'submit'][value='Continue']]
+2024-03-10 03:47:07 INFO  TestBase:79 - Finding element by : By.cssSelector: div#content>h1
+2024-03-10 03:47:07 INFO  TestBase:85 - Found element by : By.cssSelector: div#content>h1
+2024-03-10 03:47:07 INFO  TestBase:150 - Getting text from element  : Your Account Has Been Created!
+2024-03-10 03:47:07 INFO  TestBase:156 - Geot text from element  : Your Account Has Been Created!
+2024-03-10 03:48:39 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 03:48:39 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 03:48:42 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/register
+2024-03-10 04:04:18 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 04:04:18 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabsstage.com/opencart/index.php?route=account/login
+2024-03-10 04:06:47 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 04:06:47 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 04:06:50 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 04:06:50 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-10 04:06:50 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-10 04:06:50 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-10 04:06:50 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-10 04:06:50 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-10 04:06:50 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-10 04:06:50 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (b6e6dac9615e4db0b57eac323a114288)] -> css selector: #content div>div form>input]
+2024-03-10 04:07:30 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 04:07:30 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 04:07:33 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 04:07:33 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-10 04:07:33 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-10 04:07:33 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-10 04:07:33 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-10 04:07:33 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-10 04:07:33 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-10 04:07:33 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (4ccfd3388cc0e1f3629739a17b50605e)] -> css selector: #content div>div form>input]
+2024-03-10 04:17:50 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 04:17:50 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 04:17:52 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 04:17:53 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-10 04:17:53 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-10 04:17:53 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-10 04:17:53 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-10 04:17:53 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-10 04:17:53 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-10 04:17:53 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (49bf3b124faf8061471b5b3d747b1323)] -> css selector: #content div>div form>input]
+2024-03-10 04:17:54 INFO  TestBase:79 - Finding element by : By.cssSelector: #account-account>div.row h2:first-of-type
+2024-03-10 04:17:54 INFO  TestBase:85 - Found element by : By.cssSelector: #account-account>div.row h2:first-of-type
+2024-03-10 04:17:54 INFO  TestBase:150 - Getting text from element  : My Account
+2024-03-10 04:17:54 INFO  TestBase:156 - Geot text from element  : My Account
+2024-03-10 05:34:02 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 05:34:02 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 05:34:04 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 06:01:44 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 06:01:44 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 06:01:47 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 06:01:47 INFO  TestBase:79 - Finding element by : By.cssSelector: div.list-group>a:nth-of-type(2)
+2024-03-10 06:01:47 INFO  TestBase:85 - Found element by : By.cssSelector: div.list-group>a:nth-of-type(2)
+2024-03-10 06:01:47 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (dcaf5fa08f5f00acd6fbbadd1d57ac1e)] -> css selector: div.list-group>a:nth-of-type(2)]
+2024-03-10 06:01:49 INFO  TestBase:79 - Finding element by : By.id: input-firstname
+2024-03-10 06:01:49 INFO  TestBase:85 - Found element by : By.id: input-firstname
+2024-03-10 06:01:49 INFO  TestBase:79 - Finding element by : By.id: input-lastname
+2024-03-10 06:01:49 INFO  TestBase:85 - Found element by : By.id: input-lastname
+2024-03-10 06:01:49 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-10 06:01:49 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-10 06:01:49 INFO  TestBase:79 - Finding element by : By.id: input-telephone
+2024-03-10 06:01:49 INFO  TestBase:85 - Found element by : By.id: input-telephone
+2024-03-10 06:01:49 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-10 06:01:49 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-10 06:01:50 INFO  TestBase:79 - Finding element by : By.id: input-confirm
+2024-03-10 06:01:50 INFO  TestBase:85 - Found element by : By.id: input-confirm
+2024-03-10 06:01:50 INFO  TestBase:79 - Finding element by : By.cssSelector: .radio-inline [type = 'radio'][value='1']
+2024-03-10 06:01:50 INFO  TestBase:85 - Found element by : By.cssSelector: .radio-inline [type = 'radio'][value='1']
+2024-03-10 06:01:50 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (dcaf5fa08f5f00acd6fbbadd1d57ac1e)] -> css selector: .radio-inline [type = 'radio'][value='1']]
+2024-03-10 06:01:50 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 06:01:50 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 06:01:50 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (dcaf5fa08f5f00acd6fbbadd1d57ac1e)] -> css selector: [type = 'checkbox'][value='1']]
+2024-03-10 06:01:50 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 06:01:50 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 06:01:50 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (dcaf5fa08f5f00acd6fbbadd1d57ac1e)] -> css selector: [type = 'submit'][value='Continue']]
+2024-03-10 06:01:51 INFO  TestBase:79 - Finding element by : By.cssSelector: div#content>h1
+2024-03-10 06:01:51 INFO  TestBase:85 - Found element by : By.cssSelector: div#content>h1
+2024-03-10 06:01:51 INFO  TestBase:150 - Getting text from element  : Your Account Has Been Created!
+2024-03-10 06:01:51 INFO  TestBase:156 - Geot text from element  : Your Account Has Been Created!
+2024-03-10 06:02:36 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 06:02:36 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 06:02:39 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 06:02:39 INFO  TestBase:79 - Finding element by : By.cssSelector: div.list-group>a:nth-of-type(3)
+2024-03-10 06:02:39 INFO  TestBase:85 - Found element by : By.cssSelector: div.list-group>a:nth-of-type(3)
+2024-03-10 06:02:39 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (08511bbab51fe289dd85a59563a27191)] -> css selector: div.list-group>a:nth-of-type(3)]
+2024-03-10 06:02:39 INFO  TestBase:79 - Finding element by : By.cssSelector: div#content>h1
+2024-03-10 06:02:39 INFO  TestBase:85 - Found element by : By.cssSelector: div#content>h1
+2024-03-10 06:02:39 INFO  TestBase:150 - Getting text from element  : Forgot Your Password?
+2024-03-10 06:02:39 INFO  TestBase:156 - Geot text from element  : Forgot Your Password?
+2024-03-10 06:03:27 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 06:03:27 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 06:03:30 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 06:03:30 INFO  TestBase:79 - Finding element by : By.cssSelector: div.list-group>a:nth-of-type(3)
+2024-03-10 06:03:30 INFO  TestBase:85 - Found element by : By.cssSelector: div.list-group>a:nth-of-type(3)
+2024-03-10 06:03:30 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (01520f857902aba34bdefa710d595d82)] -> css selector: div.list-group>a:nth-of-type(3)]
+2024-03-10 06:03:31 INFO  TestBase:79 - Finding element by : By.cssSelector: div#content>h1
+2024-03-10 06:03:31 INFO  TestBase:85 - Found element by : By.cssSelector: div#content>h1
+2024-03-10 06:03:31 INFO  TestBase:150 - Getting text from element  : Forgot Your Password?
+2024-03-10 06:03:31 INFO  TestBase:156 - Geot text from element  : Forgot Your Password?
+2024-03-10 06:33:04 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 06:33:04 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 06:33:06 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 06:33:07 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a
+2024-03-10 06:33:07 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a
+2024-03-10 06:33:07 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (7d2deb4b021db3f4544c48a28d440238)] -> css selector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a]
+2024-03-10 06:33:07 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a
+2024-03-10 06:33:07 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a
+2024-03-10 06:33:07 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (7d2deb4b021db3f4544c48a28d440238)] -> css selector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a]
+2024-03-10 06:33:08 INFO  TestBase:79 - Finding element by : By.cssSelector: #content h1
+2024-03-10 06:33:08 INFO  TestBase:85 - Found element by : By.cssSelector: #content h1
+2024-03-10 06:33:08 INFO  TestBase:150 - Getting text from element  : Purchase a Gift Certificate
+2024-03-10 06:33:08 INFO  TestBase:156 - Geot text from element  : Purchase a Gift Certificate
+2024-03-10 06:33:13 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 06:33:13 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 06:33:15 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 06:33:15 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a
+2024-03-10 06:33:15 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a
+2024-03-10 06:33:15 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (18e616c026819a2d825675e324266f59)] -> css selector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a]
+2024-03-10 06:33:16 INFO  TestBase:79 - Finding element by : By.id: input-to-name
+2024-03-10 06:33:16 INFO  TestBase:85 - Found element by : By.id: input-to-name
+2024-03-10 06:40:28 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 06:40:28 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 06:40:31 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 06:40:31 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a
+2024-03-10 06:40:31 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a
+2024-03-10 06:40:31 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (f7fa670c75123e590f39c76f4a9c265f)] -> css selector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a]
+2024-03-10 06:40:32 INFO  TestBase:79 - Finding element by : By.cssSelector: #content h1
+2024-03-10 06:40:32 INFO  TestBase:85 - Found element by : By.cssSelector: #content h1
+2024-03-10 06:40:32 INFO  TestBase:150 - Getting text from element  : Purchase a Gift Certificate
+2024-03-10 06:40:32 INFO  TestBase:156 - Geot text from element  : Purchase a Gift Certificate
+2024-03-10 06:40:36 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 06:40:36 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 06:40:39 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 06:40:39 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a
+2024-03-10 06:40:39 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a
+2024-03-10 06:40:39 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (0f4c5e3507626bb9a9bcd27bbebf31c9)] -> css selector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a]
+2024-03-10 06:40:39 INFO  TestBase:79 - Finding element by : By.id: input-to-name
+2024-03-10 06:40:39 INFO  TestBase:85 - Found element by : By.id: input-to-name
+2024-03-10 06:40:39 INFO  TestBase:79 - Finding element by : By.id: input-to-email
+2024-03-10 06:40:40 INFO  TestBase:85 - Found element by : By.id: input-to-email
+2024-03-10 06:40:40 INFO  TestBase:79 - Finding element by : By.cssSelector: [name='voucher_theme_id'][value='7']
+2024-03-10 06:40:40 INFO  TestBase:85 - Found element by : By.cssSelector: [name='voucher_theme_id'][value='7']
+2024-03-10 06:40:40 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (0f4c5e3507626bb9a9bcd27bbebf31c9)] -> css selector: [name='voucher_theme_id'][value='7']]
+2024-03-10 06:40:40 INFO  TestBase:79 - Finding element by : By.id: input-message
+2024-03-10 06:40:40 INFO  TestBase:85 - Found element by : By.id: input-message
+2024-03-10 06:40:40 INFO  TestBase:79 - Finding element by : By.id: input-amount
+2024-03-10 06:40:40 INFO  TestBase:85 - Found element by : By.id: input-amount
+2024-03-10 06:40:40 INFO  TestBase:79 - Finding element by : By.id: input-amount
+2024-03-10 06:40:40 INFO  TestBase:85 - Found element by : By.id: input-amount
+2024-03-10 06:40:40 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 06:40:40 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 06:40:40 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (0f4c5e3507626bb9a9bcd27bbebf31c9)] -> css selector: [type = 'checkbox'][value='1']]
+2024-03-10 06:40:40 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 06:40:40 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 06:40:41 INFO  TestBase:79 - Finding element by : By.xpath: //p[contains(text(),'Thank you')]
+2024-03-10 06:51:46 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 06:51:46 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 06:51:53 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 06:51:53 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a
+2024-03-10 06:51:53 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a
+2024-03-10 06:51:53 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (b018712f618ab6b452f593b82444a3d8)] -> css selector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a]
+2024-03-10 06:51:54 INFO  TestBase:79 - Finding element by : By.id: input-to-name
+2024-03-10 06:51:54 INFO  TestBase:85 - Found element by : By.id: input-to-name
+2024-03-10 06:51:54 INFO  TestBase:79 - Finding element by : By.id: input-to-email
+2024-03-10 06:51:54 INFO  TestBase:85 - Found element by : By.id: input-to-email
+2024-03-10 06:51:54 INFO  TestBase:79 - Finding element by : By.id: input-from-name
+2024-03-10 06:51:54 INFO  TestBase:85 - Found element by : By.id: input-from-name
+2024-03-10 06:51:54 INFO  TestBase:79 - Finding element by : By.id: input-from-email
+2024-03-10 06:51:54 INFO  TestBase:85 - Found element by : By.id: input-from-email
+2024-03-10 06:51:54 INFO  TestBase:79 - Finding element by : By.cssSelector: [name='voucher_theme_id'][value='7']
+2024-03-10 06:51:54 INFO  TestBase:85 - Found element by : By.cssSelector: [name='voucher_theme_id'][value='7']
+2024-03-10 06:51:54 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (b018712f618ab6b452f593b82444a3d8)] -> css selector: [name='voucher_theme_id'][value='7']]
+2024-03-10 06:51:54 INFO  TestBase:79 - Finding element by : By.id: input-message
+2024-03-10 06:51:54 INFO  TestBase:85 - Found element by : By.id: input-message
+2024-03-10 06:51:55 INFO  TestBase:79 - Finding element by : By.id: input-amount
+2024-03-10 06:51:55 INFO  TestBase:85 - Found element by : By.id: input-amount
+2024-03-10 06:51:55 INFO  TestBase:79 - Finding element by : By.id: input-amount
+2024-03-10 06:51:55 INFO  TestBase:85 - Found element by : By.id: input-amount
+2024-03-10 06:51:55 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 06:51:55 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 06:51:55 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (b018712f618ab6b452f593b82444a3d8)] -> css selector: [type = 'checkbox'][value='1']]
+2024-03-10 06:51:55 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 06:51:55 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 06:51:56 INFO  TestBase:79 - Finding element by : By.xpath: //p[contains(text(),'Thank you')]
+2024-03-10 06:51:56 INFO  TestBase:85 - Found element by : By.xpath: //p[contains(text(),'Thank you')]
+2024-03-10 06:51:56 INFO  TestBase:150 - Getting text from element  : Thank you for purchasing a gift certificate! Once you have completed your order your gift certificate recipient will be sent an e-mail with details how to redeem their gift certificate.
+2024-03-10 06:51:56 INFO  TestBase:156 - Geot text from element  : Thank you for purchasing a gift certificate! Once you have completed your order your gift certificate recipient will be sent an e-mail with details how to redeem their gift certificate.
+2024-03-10 06:52:30 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 06:52:30 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 06:52:32 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 06:52:32 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a
+2024-03-10 06:52:32 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a
+2024-03-10 06:52:32 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (9ff52802751260b7b77d5279256eb915)] -> css selector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a]
+2024-03-10 06:52:33 INFO  TestBase:79 - Finding element by : By.id: input-to-name
+2024-03-10 06:52:33 INFO  TestBase:85 - Found element by : By.id: input-to-name
+2024-03-10 06:52:33 INFO  TestBase:79 - Finding element by : By.id: input-to-email
+2024-03-10 06:52:33 INFO  TestBase:85 - Found element by : By.id: input-to-email
+2024-03-10 06:52:34 INFO  TestBase:79 - Finding element by : By.id: input-from-name
+2024-03-10 06:52:34 INFO  TestBase:85 - Found element by : By.id: input-from-name
+2024-03-10 06:52:34 INFO  TestBase:79 - Finding element by : By.id: input-from-email
+2024-03-10 06:52:34 INFO  TestBase:85 - Found element by : By.id: input-from-email
+2024-03-10 06:52:34 INFO  TestBase:79 - Finding element by : By.cssSelector: [name='voucher_theme_id'][value='7']
+2024-03-10 06:52:34 INFO  TestBase:85 - Found element by : By.cssSelector: [name='voucher_theme_id'][value='7']
+2024-03-10 06:52:34 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (9ff52802751260b7b77d5279256eb915)] -> css selector: [name='voucher_theme_id'][value='7']]
+2024-03-10 06:52:34 INFO  TestBase:79 - Finding element by : By.id: input-message
+2024-03-10 06:52:34 INFO  TestBase:85 - Found element by : By.id: input-message
+2024-03-10 06:52:34 INFO  TestBase:79 - Finding element by : By.id: input-amount
+2024-03-10 06:52:34 INFO  TestBase:85 - Found element by : By.id: input-amount
+2024-03-10 06:52:34 INFO  TestBase:79 - Finding element by : By.id: input-amount
+2024-03-10 06:52:34 INFO  TestBase:85 - Found element by : By.id: input-amount
+2024-03-10 06:52:34 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 06:52:34 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 06:52:34 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (9ff52802751260b7b77d5279256eb915)] -> css selector: [type = 'checkbox'][value='1']]
+2024-03-10 06:52:34 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 06:52:34 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 06:52:35 INFO  TestBase:79 - Finding element by : By.xpath: //p[contains(text(),'Thank you')]
+2024-03-10 06:52:35 INFO  TestBase:85 - Found element by : By.xpath: //p[contains(text(),'Thank you')]
+2024-03-10 06:52:35 INFO  TestBase:150 - Getting text from element  : Thank you for purchasing a gift certificate! Once you have completed your order your gift certificate recipient will be sent an e-mail with details how to redeem their gift certificate.
+2024-03-10 06:52:35 INFO  TestBase:156 - Geot text from element  : Thank you for purchasing a gift certificate! Once you have completed your order your gift certificate recipient will be sent an e-mail with details how to redeem their gift certificate.
+2024-03-10 07:21:00 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 07:21:00 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 07:21:02 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 07:21:02 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-10 07:21:02 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-10 07:21:03 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-10 07:21:03 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-10 07:21:03 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-10 07:21:03 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-10 07:21:03 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (7b5c941558c4008d7b67f90b628ff73e)] -> css selector: #content div>div form>input]
+2024-03-10 07:21:03 INFO  TestBase:79 - Finding element by : By.cssSelector: #column-right a
+2024-03-10 07:21:04 INFO  TestBase:85 - Found element by : By.cssSelector: #column-right a
+2024-03-10 07:21:04 INFO  TestBase:79 - Finding element by : By.cssSelector: #column-right a
+2024-03-10 07:21:04 INFO  TestBase:85 - Found element by : By.cssSelector: #column-right a
+2024-03-10 07:21:04 INFO  TestBase:150 - Getting text from element  : Login
+2024-03-10 07:21:04 INFO  TestBase:156 - Geot text from element  : Login
+2024-03-10 07:21:04 INFO  TestBase:79 - Finding element by : By.cssSelector: #column-right a
+2024-03-10 07:21:04 INFO  TestBase:85 - Found element by : By.cssSelector: #column-right a
+2024-03-10 07:21:04 INFO  TestBase:79 - Finding element by : By.cssSelector: #column-right a
+2024-03-10 07:21:04 INFO  TestBase:85 - Found element by : By.cssSelector: #column-right a
+2024-03-10 07:21:04 INFO  TestBase:150 - Getting text from element  : Register
+2024-03-10 07:21:04 INFO  TestBase:156 - Geot text from element  : Register
+2024-03-10 07:21:04 INFO  TestBase:79 - Finding element by : By.cssSelector: #column-right a
+2024-03-10 07:21:04 INFO  TestBase:85 - Found element by : By.cssSelector: #column-right a
+2024-03-10 07:21:04 INFO  TestBase:79 - Finding element by : By.cssSelector: #column-right a
+2024-03-10 07:21:04 INFO  TestBase:85 - Found element by : By.cssSelector: #column-right a
+2024-03-10 07:21:04 INFO  TestBase:150 - Getting text from element  : Forgotten Password
+2024-03-10 07:21:04 INFO  TestBase:156 - Geot text from element  : Forgotten Password
+2024-03-10 07:21:04 INFO  TestBase:79 - Finding element by : By.cssSelector: #column-right a
+2024-03-10 07:21:04 INFO  TestBase:85 - Found element by : By.cssSelector: #column-right a
+2024-03-10 07:21:04 INFO  TestBase:79 - Finding element by : By.cssSelector: #column-right a
+2024-03-10 07:21:04 INFO  TestBase:85 - Found element by : By.cssSelector: #column-right a
+2024-03-10 07:21:04 INFO  TestBase:150 - Getting text from element  : My Account
+2024-03-10 07:21:04 INFO  TestBase:156 - Geot text from element  : My Account
+2024-03-10 07:21:04 INFO  TestBase:79 - Finding element by : By.cssSelector: #column-right a
+2024-03-10 07:21:04 INFO  TestBase:85 - Found element by : By.cssSelector: #column-right a
+2024-03-10 07:21:04 INFO  TestBase:79 - Finding element by : By.cssSelector: #column-right a
+2024-03-10 07:21:04 INFO  TestBase:85 - Found element by : By.cssSelector: #column-right a
+2024-03-10 07:21:04 INFO  TestBase:150 - Getting text from element  : Address Book
+2024-03-10 07:21:04 INFO  TestBase:156 - Geot text from element  : Address Book
+2024-03-10 07:21:04 INFO  TestBase:79 - Finding element by : By.cssSelector: #column-right a
+2024-03-10 07:21:04 INFO  TestBase:85 - Found element by : By.cssSelector: #column-right a
+2024-03-10 07:21:04 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (7b5c941558c4008d7b67f90b628ff73e)] -> css selector: #column-right a]
+2024-03-10 07:21:05 INFO  TestBase:79 - Finding element by : By.cssSelector: div.buttons.clearfix div:last-of-type a
+2024-03-10 07:24:38 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 07:24:38 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 07:24:41 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 07:24:41 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-10 07:24:41 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-10 07:24:41 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-10 07:24:41 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-10 07:24:42 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-10 07:24:42 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-10 07:24:42 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (e424fa2f7332cb74ac03f2c4e893da7b)] -> css selector: #content div>div form>input]
+2024-03-10 07:24:43 INFO  TestBase:79 - Finding element by : By.cssSelector: #account-account>div.row h2:first-of-type
+2024-03-10 07:24:43 INFO  TestBase:85 - Found element by : By.cssSelector: #account-account>div.row h2:first-of-type
+2024-03-10 07:24:43 INFO  TestBase:150 - Getting text from element  : My Account
+2024-03-10 07:24:43 INFO  TestBase:156 - Geot text from element  : My Account
+2024-03-10 20:17:48 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 20:17:48 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 20:17:50 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 20:17:50 INFO  TestBase:79 - Finding element by : By.cssSelector: div.list-group>a:nth-of-type(2)
+2024-03-10 20:17:50 INFO  TestBase:85 - Found element by : By.cssSelector: div.list-group>a:nth-of-type(2)
+2024-03-10 20:17:50 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (7d95cf29621189f0772dba197a3cf04c)] -> css selector: div.list-group>a:nth-of-type(2)]
+2024-03-10 20:17:51 INFO  TestBase:79 - Finding element by : By.id: input-firstname
+2024-03-10 20:17:51 INFO  TestBase:85 - Found element by : By.id: input-firstname
+2024-03-10 20:17:52 INFO  TestBase:79 - Finding element by : By.id: input-lastname
+2024-03-10 20:17:52 INFO  TestBase:85 - Found element by : By.id: input-lastname
+2024-03-10 20:17:52 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-10 20:17:52 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-10 20:17:52 INFO  TestBase:79 - Finding element by : By.id: input-telephone
+2024-03-10 20:17:52 INFO  TestBase:85 - Found element by : By.id: input-telephone
+2024-03-10 20:17:52 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-10 20:17:52 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-10 20:17:52 INFO  TestBase:79 - Finding element by : By.id: input-confirm
+2024-03-10 20:17:52 INFO  TestBase:85 - Found element by : By.id: input-confirm
+2024-03-10 20:17:52 INFO  TestBase:79 - Finding element by : By.cssSelector: .radio-inline [type = 'radio'][value='1']
+2024-03-10 20:17:52 INFO  TestBase:85 - Found element by : By.cssSelector: .radio-inline [type = 'radio'][value='1']
+2024-03-10 20:17:52 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (7d95cf29621189f0772dba197a3cf04c)] -> css selector: .radio-inline [type = 'radio'][value='1']]
+2024-03-10 20:17:52 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 20:17:52 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 20:17:52 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (7d95cf29621189f0772dba197a3cf04c)] -> css selector: [type = 'checkbox'][value='1']]
+2024-03-10 20:17:53 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 20:17:53 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 20:17:53 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (7d95cf29621189f0772dba197a3cf04c)] -> css selector: [type = 'submit'][value='Continue']]
+2024-03-10 20:17:54 INFO  TestBase:79 - Finding element by : By.cssSelector: div#content>h1
+2024-03-10 20:17:54 INFO  TestBase:85 - Found element by : By.cssSelector: div#content>h1
+2024-03-10 20:17:54 INFO  TestBase:150 - Getting text from element  : Your Account Has Been Created!
+2024-03-10 20:17:54 INFO  TestBase:156 - Geot text from element  : Your Account Has Been Created!
+2024-03-10 20:31:59 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 20:31:59 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 20:32:02 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 20:32:02 INFO  TestBase:79 - Finding element by : By.cssSelector: form>div.form-group:nth-of-type(2)>a
+2024-03-10 20:32:02 INFO  TestBase:85 - Found element by : By.cssSelector: form>div.form-group:nth-of-type(2)>a
+2024-03-10 20:32:02 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (3365d8140b6a07f7684f02e678b463f0)] -> css selector: form>div.form-group:nth-of-type(2)>a]
+2024-03-10 20:32:03 INFO  TestBase:79 - Finding element by : By.cssSelector: div#content>h1
+2024-03-10 20:32:03 INFO  TestBase:85 - Found element by : By.cssSelector: div#content>h1
+2024-03-10 20:32:03 INFO  TestBase:150 - Getting text from element  : Forgot Your Password?
+2024-03-10 20:32:03 INFO  TestBase:156 - Geot text from element  : Forgot Your Password?
+2024-03-10 21:49:17 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 21:49:17 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 21:49:18 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 21:49:19 INFO  TestBase:79 - Finding element by : By.cssSelector: form>div.form-group:nth-of-type(2)>a
+2024-03-10 21:49:20 INFO  TestBase:85 - Found element by : By.cssSelector: form>div.form-group:nth-of-type(2)>a
+2024-03-10 21:49:20 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (be06a6c0417fc6a3719a7b96972e665d)] -> css selector: form>div.form-group:nth-of-type(2)>a]
+2024-03-10 21:49:21 INFO  TestBase:79 - Finding element by : By.cssSelector: div#content>h1
+2024-03-10 21:49:21 INFO  TestBase:85 - Found element by : By.cssSelector: div#content>h1
+2024-03-10 21:49:21 INFO  TestBase:150 - Getting text from element  : Forgot Your Password?
+2024-03-10 21:49:21 INFO  TestBase:156 - Geot text from element  : Forgot Your Password?
+2024-03-10 22:57:19 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 22:57:19 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 22:57:22 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 22:57:22 INFO  TestBase:79 - Finding element by : By.cssSelector: div.list-group>a:nth-of-type(2)
+2024-03-10 22:57:22 INFO  TestBase:85 - Found element by : By.cssSelector: div.list-group>a:nth-of-type(2)
+2024-03-10 22:57:22 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (18567dd0b5470b5af0248940b866016c)] -> css selector: div.list-group>a:nth-of-type(2)]
+2024-03-10 22:57:24 INFO  TestBase:79 - Finding element by : By.id: input-firstname
+2024-03-10 22:57:24 INFO  TestBase:85 - Found element by : By.id: input-firstname
+2024-03-10 22:57:24 INFO  TestBase:79 - Finding element by : By.id: input-lastname
+2024-03-10 22:57:24 INFO  TestBase:85 - Found element by : By.id: input-lastname
+2024-03-10 22:57:24 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-10 22:57:24 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-10 22:57:25 INFO  TestBase:79 - Finding element by : By.id: input-telephone
+2024-03-10 22:57:25 INFO  TestBase:85 - Found element by : By.id: input-telephone
+2024-03-10 22:57:25 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-10 22:57:25 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-10 22:57:25 INFO  TestBase:79 - Finding element by : By.id: input-confirm
+2024-03-10 22:57:25 INFO  TestBase:85 - Found element by : By.id: input-confirm
+2024-03-10 22:57:25 INFO  TestBase:79 - Finding element by : By.cssSelector: .radio-inline [type = 'radio'][value='1']
+2024-03-10 22:57:25 INFO  TestBase:85 - Found element by : By.cssSelector: .radio-inline [type = 'radio'][value='1']
+2024-03-10 22:57:25 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (18567dd0b5470b5af0248940b866016c)] -> css selector: .radio-inline [type = 'radio'][value='1']]
+2024-03-10 22:57:25 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 22:57:25 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-10 22:57:25 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (18567dd0b5470b5af0248940b866016c)] -> css selector: [type = 'checkbox'][value='1']]
+2024-03-10 22:57:25 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 22:57:25 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-10 22:57:25 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (18567dd0b5470b5af0248940b866016c)] -> css selector: [type = 'submit'][value='Continue']]
+2024-03-10 22:57:26 INFO  TestBase:79 - Finding element by : By.cssSelector: div#content>h1
+2024-03-10 22:57:26 INFO  TestBase:85 - Found element by : By.cssSelector: div#content>h1
+2024-03-10 22:57:26 INFO  TestBase:150 - Getting text from element  : Your Account Has Been Created!
+2024-03-10 22:57:26 INFO  TestBase:156 - Geot text from element  : Your Account Has Been Created!
+2024-03-10 23:22:17 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 23:22:17 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 23:22:19 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 23:22:20 INFO  TestBase:79 - Finding element by : By.xpath: //footer//a[contains(text(), 'Delivery Information')]
+2024-03-10 23:22:20 INFO  TestBase:85 - Found element by : By.xpath: //footer//a[contains(text(), 'Delivery Information')]
+2024-03-10 23:22:20 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (f1b2d4413e205ab8b81da2069aefe8e0)] -> xpath: //footer//a[contains(text(), 'Delivery Information')]]
+2024-03-10 23:22:20 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>h1
+2024-03-10 23:22:20 INFO  TestBase:85 - Found element by : By.cssSelector: #content>h1
+2024-03-10 23:22:20 INFO  TestBase:150 - Getting text from element  : Delivery Information
+2024-03-10 23:22:20 INFO  TestBase:156 - Geot text from element  : Delivery Information
+2024-03-10 23:47:32 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 23:47:32 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 23:47:35 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 23:47:35 INFO  TestBase:79 - Finding element by : By.xpath: //footer//a[text()='Terms & Conditions']
+2024-03-10 23:47:35 INFO  TestBase:85 - Found element by : By.xpath: //footer//a[text()='Terms & Conditions']
+2024-03-10 23:47:35 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (5d4f6af8e9930c37786bdd3bf6e7f445)] -> xpath: //footer//a[text()='Terms & Conditions']]
+2024-03-10 23:47:36 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>h1
+2024-03-10 23:47:36 INFO  TestBase:85 - Found element by : By.cssSelector: #content>h1
+2024-03-10 23:47:36 INFO  TestBase:150 - Getting text from element  : Terms & Conditions
+2024-03-10 23:47:36 INFO  TestBase:156 - Geot text from element  : Terms & Conditions
+2024-03-10 23:48:45 INFO  TestBase:44 - Loading Page in Browser
+2024-03-10 23:48:45 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 23:48:48 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-10 23:48:48 INFO  TestBase:79 - Finding element by : By.xpath: //footer//a[text()='Terms & Conditions']
+2024-03-10 23:48:48 INFO  TestBase:85 - Found element by : By.xpath: //footer//a[text()='Terms & Conditions']
+2024-03-10 23:48:48 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (a7a3b014786deacade32f999a39bd5b6)] -> xpath: //footer//a[text()='Terms & Conditions']]
+2024-03-10 23:48:49 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>h1
+2024-03-10 23:48:49 INFO  TestBase:85 - Found element by : By.cssSelector: #content>h1
+2024-03-10 23:48:49 INFO  TestBase:150 - Getting text from element  : Terms & Conditions
+2024-03-10 23:48:49 INFO  TestBase:156 - Geot text from element  : Terms & Conditions
+2024-03-11 07:17:18 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 07:17:18 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-11 07:17:20 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-11 07:17:21 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(3)>a
+2024-03-11 07:17:21 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(3)>a
+2024-03-11 07:17:21 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (7b907cee5d3705f8346d1379d1d8d497)] -> css selector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(3)>a]
+2024-03-11 07:17:22 INFO  TestBase:79 - Finding element by : By.id: input-firstname
+2024-03-11 07:40:55 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 07:40:55 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-11 07:40:57 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-11 07:40:57 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(3)>a
+2024-03-11 07:40:57 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(3)>a
+2024-03-11 07:40:57 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (c28983a09e9d75f4ffa90ae6db3910a6)] -> css selector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(3)>a]
+2024-03-11 07:40:58 INFO  TestBase:79 - Finding element by : By.cssSelector: div.well>a
+2024-03-11 07:40:58 INFO  TestBase:85 - Found element by : By.cssSelector: div.well>a
+2024-03-11 07:40:58 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (c28983a09e9d75f4ffa90ae6db3910a6)] -> css selector: div.well>a]
+2024-03-11 07:40:59 INFO  TestBase:79 - Finding element by : By.id: input-firstname
+2024-03-11 07:40:59 INFO  TestBase:85 - Found element by : By.id: input-firstname
+2024-03-11 07:40:59 INFO  TestBase:79 - Finding element by : By.id: input-lastname
+2024-03-11 07:40:59 INFO  TestBase:85 - Found element by : By.id: input-lastname
+2024-03-11 07:40:59 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-11 07:40:59 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-11 07:41:00 INFO  TestBase:79 - Finding element by : By.id: input-telephone
+2024-03-11 07:41:00 INFO  TestBase:85 - Found element by : By.id: input-telephone
+2024-03-11 07:41:00 INFO  TestBase:79 - Finding element by : By.id: input-company
+2024-03-11 07:41:00 INFO  TestBase:85 - Found element by : By.id: input-company
+2024-03-11 07:41:00 INFO  TestBase:79 - Finding element by : By.id: input-website
+2024-03-11 07:41:00 INFO  TestBase:85 - Found element by : By.id: input-website
+2024-03-11 07:41:00 INFO  TestBase:79 - Finding element by : By.id: input-tax
+2024-03-11 07:41:00 INFO  TestBase:85 - Found element by : By.id: input-tax
+2024-03-11 07:41:00 INFO  TestBase:79 - Finding element by : By.cssSelector: [type='radio'][value='cheque']
+2024-03-11 07:41:00 INFO  TestBase:85 - Found element by : By.cssSelector: [type='radio'][value='cheque']
+2024-03-11 07:41:00 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (c28983a09e9d75f4ffa90ae6db3910a6)] -> css selector: [type='radio'][value='cheque']]
+2024-03-11 07:41:00 INFO  TestBase:79 - Finding element by : By.id: input-cheque
+2024-03-11 07:41:00 INFO  TestBase:85 - Found element by : By.id: input-cheque
+2024-03-11 07:41:00 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-11 07:41:00 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-11 07:41:01 INFO  TestBase:79 - Finding element by : By.id: input-confirm
+2024-03-11 07:41:01 INFO  TestBase:85 - Found element by : By.id: input-confirm
+2024-03-11 07:41:01 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-11 07:41:01 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-11 07:41:01 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (c28983a09e9d75f4ffa90ae6db3910a6)] -> css selector: [type = 'checkbox'][value='1']]
+2024-03-11 07:41:01 INFO  TestBase:79 - Finding element by : By.cssSelector: [type='submit'][value='Continue']
+2024-03-11 07:41:01 INFO  TestBase:85 - Found element by : By.cssSelector: [type='submit'][value='Continue']
+2024-03-11 07:41:01 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (c28983a09e9d75f4ffa90ae6db3910a6)] -> css selector: [type='submit'][value='Continue']]
+2024-03-11 07:41:02 INFO  TestBase:79 - Finding element by : By.cssSelector: div#content>h1
+2024-03-11 07:41:02 INFO  TestBase:85 - Found element by : By.cssSelector: div#content>h1
+2024-03-11 07:41:02 INFO  TestBase:150 - Getting text from element  : Your Affiliate Account Has Been Created!
+2024-03-11 07:41:02 INFO  TestBase:156 - Geot text from element  : Your Affiliate Account Has Been Created!
+2024-03-11 07:45:32 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 07:45:32 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-11 07:45:34 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-11 07:45:35 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:first-of-type>a
+2024-03-11 07:45:35 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:first-of-type>a
+2024-03-11 07:45:35 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (3b71f75fca8588c67299cd801146ffaf)] -> css selector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:first-of-type>a]
+2024-03-11 07:45:35 INFO  TestBase:79 - Finding element by : By.cssSelector: #content h1
+2024-03-11 07:45:35 INFO  TestBase:85 - Found element by : By.cssSelector: #content h1
+2024-03-11 07:45:35 INFO  TestBase:150 - Getting text from element  : Contact Us
+2024-03-11 07:45:35 INFO  TestBase:156 - Geot text from element  : Contact Us
+2024-03-11 08:27:59 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 08:27:59 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-11 08:28:01 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-11 08:28:02 INFO  TestBase:79 - Finding element by : By.id: input-name
+2024-03-11 08:31:52 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 08:31:52 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-11 08:31:55 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-11 08:31:55 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:first-of-type>a
+2024-03-11 08:31:55 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:first-of-type>a
+2024-03-11 08:31:55 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (3d317c45a9b9c28c3ed368d84e1232f9)] -> css selector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:first-of-type>a]
+2024-03-11 08:31:56 INFO  TestBase:79 - Finding element by : By.cssSelector: #content h1
+2024-03-11 08:31:56 INFO  TestBase:85 - Found element by : By.cssSelector: #content h1
+2024-03-11 08:31:56 INFO  TestBase:150 - Getting text from element  : Contact Us
+2024-03-11 08:31:56 INFO  TestBase:156 - Geot text from element  : Contact Us
+2024-03-11 08:32:39 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 08:32:39 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-11 08:32:41 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-11 08:32:42 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:first-of-type>a
+2024-03-11 08:32:42 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:first-of-type>a
+2024-03-11 08:32:42 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (6c510cc3496d47aa3f36b097481965ec)] -> css selector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:first-of-type>a]
+2024-03-11 08:32:42 INFO  TestBase:79 - Finding element by : By.id: input-name
+2024-03-11 08:32:42 INFO  TestBase:85 - Found element by : By.id: input-name
+2024-03-11 08:32:42 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-11 08:32:43 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-11 08:32:43 INFO  TestBase:79 - Finding element by : By.id: input-enquiry
+2024-03-11 08:32:43 INFO  TestBase:85 - Found element by : By.id: input-enquiry
+2024-03-11 08:32:43 INFO  TestBase:79 - Finding element by : By.cssSelector: [type ='submit']
+2024-03-11 08:32:43 INFO  TestBase:85 - Found element by : By.cssSelector: [type ='submit']
+2024-03-11 08:32:44 INFO  TestBase:79 - Finding element by : By.cssSelector: #content h1
+2024-03-11 08:32:44 INFO  TestBase:85 - Found element by : By.cssSelector: #content h1
+2024-03-11 08:32:44 INFO  TestBase:150 - Getting text from element  : Contact Us
+2024-03-11 08:32:44 INFO  TestBase:156 - Geot text from element  : Contact Us
+2024-03-11 08:33:32 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 08:33:32 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-11 08:33:35 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=account/login
+2024-03-11 08:35:06 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 08:35:06 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 08:35:09 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 08:35:10 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:first-of-type>a
+2024-03-11 08:35:10 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:first-of-type>a
+2024-03-11 08:35:10 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (63e27dcac31e2bf9af1bdccaccdd8259)] -> css selector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:first-of-type>a]
+2024-03-11 08:35:10 INFO  TestBase:79 - Finding element by : By.id: input-name
+2024-03-11 08:35:10 INFO  TestBase:85 - Found element by : By.id: input-name
+2024-03-11 08:35:10 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-11 08:35:10 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-11 08:35:11 INFO  TestBase:79 - Finding element by : By.id: input-enquiry
+2024-03-11 08:35:11 INFO  TestBase:85 - Found element by : By.id: input-enquiry
+2024-03-11 08:35:11 INFO  TestBase:79 - Finding element by : By.cssSelector: [type ='submit']
+2024-03-11 08:35:11 INFO  TestBase:85 - Found element by : By.cssSelector: [type ='submit']
+2024-03-11 08:35:12 INFO  TestBase:79 - Finding element by : By.cssSelector: #content h1
+2024-03-11 08:35:12 INFO  TestBase:85 - Found element by : By.cssSelector: #content h1
+2024-03-11 08:35:12 INFO  TestBase:150 - Getting text from element  : Contact Us
+2024-03-11 08:35:12 INFO  TestBase:156 - Geot text from element  : Contact Us
+2024-03-11 08:36:47 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 08:36:47 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 08:36:51 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 08:36:51 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:first-of-type>a
+2024-03-11 08:36:51 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:first-of-type>a
+2024-03-11 08:36:51 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (aa915a1750d6e012df48aa05dfd8655c)] -> css selector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:first-of-type>a]
+2024-03-11 08:36:52 INFO  TestBase:79 - Finding element by : By.id: input-name
+2024-03-11 08:36:52 INFO  TestBase:85 - Found element by : By.id: input-name
+2024-03-11 08:36:52 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-11 08:36:52 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-11 08:36:52 INFO  TestBase:79 - Finding element by : By.id: input-enquiry
+2024-03-11 08:36:52 INFO  TestBase:85 - Found element by : By.id: input-enquiry
+2024-03-11 08:36:52 INFO  TestBase:79 - Finding element by : By.cssSelector: [type ='submit']
+2024-03-11 08:36:52 INFO  TestBase:85 - Found element by : By.cssSelector: [type ='submit']
+2024-03-11 08:36:54 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>p
+2024-03-11 08:36:54 INFO  TestBase:85 - Found element by : By.cssSelector: #content>p
+2024-03-11 08:36:54 INFO  TestBase:150 - Getting text from element  : Your enquiry has been successfully sent to the store owner!
+2024-03-11 08:36:54 INFO  TestBase:156 - Geot text from element  : Your enquiry has been successfully sent to the store owner!
+2024-03-11 10:33:46 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 10:33:46 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 10:33:49 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 10:33:49 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:nth-of-type(2)>a
+2024-03-11 10:33:49 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:nth-of-type(2)>a
+2024-03-11 10:33:49 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (6461640730684e78a5f4958e1baef848)] -> css selector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:nth-of-type(2)>a]
+2024-03-11 10:33:50 INFO  TestBase:79 - Finding element by : By.id: input-firstname
+2024-03-11 10:33:50 INFO  TestBase:85 - Found element by : By.id: input-firstname
+2024-03-11 10:33:50 INFO  TestBase:79 - Finding element by : By.id: input-lastname
+2024-03-11 10:33:50 INFO  TestBase:85 - Found element by : By.id: input-lastname
+2024-03-11 10:33:51 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-11 10:33:51 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-11 10:33:51 INFO  TestBase:79 - Finding element by : By.id: input-telephone
+2024-03-11 10:33:51 INFO  TestBase:85 - Found element by : By.id: input-telephone
+2024-03-11 10:33:51 INFO  TestBase:79 - Finding element by : By.id: input-order-id
+2024-03-11 10:33:51 INFO  TestBase:85 - Found element by : By.id: input-order-id
+2024-03-11 10:33:51 INFO  TestBase:79 - Finding element by : By.id: input-date-ordered
+2024-03-11 10:33:51 INFO  TestBase:85 - Found element by : By.id: input-date-ordered
+2024-03-11 10:33:51 INFO  TestBase:79 - Finding element by : By.id: input-product
+2024-03-11 10:33:51 INFO  TestBase:85 - Found element by : By.id: input-product
+2024-03-11 10:33:51 INFO  TestBase:79 - Finding element by : By.id: input-model
+2024-03-11 10:33:52 INFO  TestBase:85 - Found element by : By.id: input-model
+2024-03-11 10:33:52 INFO  TestBase:79 - Finding element by : By.id: input-quantity
+2024-03-11 10:33:52 INFO  TestBase:85 - Found element by : By.id: input-quantity
+2024-03-11 10:33:52 INFO  TestBase:79 - Finding element by : By.cssSelector: input[value='2']
+2024-03-11 10:33:52 INFO  TestBase:85 - Found element by : By.cssSelector: input[value='2']
+2024-03-11 10:33:52 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (6461640730684e78a5f4958e1baef848)] -> css selector: input[value='2']]
+2024-03-11 10:33:52 INFO  TestBase:79 - Finding element by : By.cssSelector: input[value='0']
+2024-03-11 10:33:52 INFO  TestBase:85 - Found element by : By.cssSelector: input[value='0']
+2024-03-11 10:33:52 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (6461640730684e78a5f4958e1baef848)] -> css selector: input[value='0']]
+2024-03-11 10:33:52 INFO  TestBase:79 - Finding element by : By.cssSelector: input[value='Submit']
+2024-03-11 10:33:52 INFO  TestBase:85 - Found element by : By.cssSelector: input[value='Submit']
+2024-03-11 10:33:53 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>p:first-of-type
+2024-03-11 10:33:53 INFO  TestBase:85 - Found element by : By.cssSelector: #content>p:first-of-type
+2024-03-11 10:33:53 INFO  TestBase:150 - Getting text from element  : Thank you for submitting your return request. Your request has been sent to the relevant department for processing.
+2024-03-11 10:33:53 INFO  TestBase:156 - Geot text from element  : Thank you for submitting your return request. Your request has been sent to the relevant department for processing.
+2024-03-11 10:40:06 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 10:40:06 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 10:40:10 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 10:40:10 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:nth-of-type(2)>a
+2024-03-11 10:40:10 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:nth-of-type(2)>a
+2024-03-11 10:40:10 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (fbcc074b106805ded8005a4584b286c1)] -> css selector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:nth-of-type(2)>a]
+2024-03-11 10:40:11 INFO  TestBase:79 - Finding element by : By.id: input-firstname
+2024-03-11 10:40:11 INFO  TestBase:85 - Found element by : By.id: input-firstname
+2024-03-11 10:40:11 INFO  TestBase:79 - Finding element by : By.id: input-lastname
+2024-03-11 10:40:11 INFO  TestBase:85 - Found element by : By.id: input-lastname
+2024-03-11 10:40:11 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-11 10:40:11 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-11 10:40:11 INFO  TestBase:79 - Finding element by : By.id: input-telephone
+2024-03-11 10:40:11 INFO  TestBase:85 - Found element by : By.id: input-telephone
+2024-03-11 10:40:12 INFO  TestBase:79 - Finding element by : By.id: input-order-id
+2024-03-11 10:40:12 INFO  TestBase:85 - Found element by : By.id: input-order-id
+2024-03-11 10:40:12 INFO  TestBase:79 - Finding element by : By.id: input-date-ordered
+2024-03-11 10:40:12 INFO  TestBase:85 - Found element by : By.id: input-date-ordered
+2024-03-11 10:40:12 INFO  TestBase:79 - Finding element by : By.id: input-product
+2024-03-11 10:40:12 INFO  TestBase:85 - Found element by : By.id: input-product
+2024-03-11 10:40:12 INFO  TestBase:79 - Finding element by : By.id: input-model
+2024-03-11 10:40:12 INFO  TestBase:85 - Found element by : By.id: input-model
+2024-03-11 10:40:12 INFO  TestBase:79 - Finding element by : By.id: input-quantity
+2024-03-11 10:40:12 INFO  TestBase:85 - Found element by : By.id: input-quantity
+2024-03-11 10:40:12 INFO  TestBase:79 - Finding element by : By.cssSelector: input[value='2']
+2024-03-11 10:40:12 INFO  TestBase:85 - Found element by : By.cssSelector: input[value='2']
+2024-03-11 10:40:12 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (fbcc074b106805ded8005a4584b286c1)] -> css selector: input[value='2']]
+2024-03-11 10:40:12 INFO  TestBase:79 - Finding element by : By.cssSelector: input[value='0']
+2024-03-11 10:40:12 INFO  TestBase:85 - Found element by : By.cssSelector: input[value='0']
+2024-03-11 10:40:12 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (fbcc074b106805ded8005a4584b286c1)] -> css selector: input[value='0']]
+2024-03-11 10:40:13 INFO  TestBase:79 - Finding element by : By.cssSelector: input[value='Submit']
+2024-03-11 10:40:13 INFO  TestBase:85 - Found element by : By.cssSelector: input[value='Submit']
+2024-03-11 10:40:14 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>p:first-of-type
+2024-03-11 10:40:14 INFO  TestBase:85 - Found element by : By.cssSelector: #content>p:first-of-type
+2024-03-11 10:40:14 INFO  TestBase:150 - Getting text from element  : Thank you for submitting your return request. Your request has been sent to the relevant department for processing.
+2024-03-11 10:40:14 INFO  TestBase:156 - Geot text from element  : Thank you for submitting your return request. Your request has been sent to the relevant department for processing.
+2024-03-11 10:44:49 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 10:44:49 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 10:44:53 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 10:44:53 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(3)>a
+2024-03-11 10:44:53 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(3)>a
+2024-03-11 10:44:53 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (2fb749e4b7d9996074983029c2d65e7c)] -> css selector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(3)>a]
+2024-03-11 10:44:54 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>h1
+2024-03-11 10:44:54 INFO  TestBase:85 - Found element by : By.cssSelector: #content>h1
+2024-03-11 10:44:54 INFO  TestBase:150 - Getting text from element  : Affiliate Program
+2024-03-11 10:44:54 INFO  TestBase:156 - Geot text from element  : Affiliate Program
+2024-03-11 10:47:06 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 10:47:06 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 10:47:09 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 10:47:09 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:nth-of-type(3)>a
+2024-03-11 10:47:09 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:nth-of-type(3)>a
+2024-03-11 10:47:09 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (2b5bf619b7b4d83c55254ba113abdc56)] -> css selector: div.row>div:nth-of-type(2)>ul.list-unstyled>li:nth-of-type(3)>a]
+2024-03-11 10:47:10 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>h1
+2024-03-11 10:47:10 INFO  TestBase:85 - Found element by : By.cssSelector: #content>h1
+2024-03-11 10:47:10 INFO  TestBase:150 - Getting text from element  : Site Map
+2024-03-11 10:47:10 INFO  TestBase:156 - Geot text from element  : Site Map
+2024-03-11 10:51:52 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 10:51:52 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 10:51:56 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 10:51:56 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:first-of-type>a
+2024-03-11 10:51:56 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:first-of-type>a
+2024-03-11 10:51:56 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (724379e212b025358b08d16dff205438)] -> css selector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:first-of-type>a]
+2024-03-11 10:51:57 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>h1
+2024-03-11 10:51:57 INFO  TestBase:85 - Found element by : By.cssSelector: #content>h1
+2024-03-11 10:51:57 INFO  TestBase:150 - Getting text from element  : Find Your Favorite Brand
+2024-03-11 10:51:57 INFO  TestBase:156 - Geot text from element  : Find Your Favorite Brand
+2024-03-11 10:58:46 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 10:58:46 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 10:58:49 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 10:58:50 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-11 10:58:50 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-11 10:58:50 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (c5471679bf9ad157223725fa932b36c4)] -> css selector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(4)>a]
+2024-03-11 10:58:50 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>h1
+2024-03-11 11:00:43 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 11:00:43 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 11:00:46 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 11:00:46 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-11 11:00:46 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-11 11:00:46 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (e3d67698f549912c70c5ca3a163bac0d)] -> css selector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(4)>a]
+2024-03-11 11:00:47 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>h2
+2024-03-11 11:00:47 INFO  TestBase:85 - Found element by : By.cssSelector: #content>h2
+2024-03-11 11:00:47 INFO  TestBase:150 - Getting text from element  : Special Offers
+2024-03-11 11:00:47 INFO  TestBase:156 - Geot text from element  : Special Offers
+2024-03-11 11:09:27 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 11:09:27 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 11:09:30 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 11:09:30 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a
+2024-03-11 11:09:30 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a
+2024-03-11 11:09:30 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (bc38b358ec2fd3cbd1d782800cb37838)] -> css selector: div.row>div:nth-of-type(3)>ul.list-unstyled>li:nth-of-type(2)>a]
+2024-03-11 11:09:31 INFO  TestBase:79 - Finding element by : By.id: input-to-name
+2024-03-11 11:09:31 INFO  TestBase:85 - Found element by : By.id: input-to-name
+2024-03-11 11:09:31 INFO  TestBase:79 - Finding element by : By.id: input-to-email
+2024-03-11 11:09:31 INFO  TestBase:85 - Found element by : By.id: input-to-email
+2024-03-11 11:09:32 INFO  TestBase:79 - Finding element by : By.id: input-from-name
+2024-03-11 11:09:32 INFO  TestBase:85 - Found element by : By.id: input-from-name
+2024-03-11 11:09:32 INFO  TestBase:79 - Finding element by : By.id: input-from-email
+2024-03-11 11:09:32 INFO  TestBase:85 - Found element by : By.id: input-from-email
+2024-03-11 11:09:32 INFO  TestBase:79 - Finding element by : By.cssSelector: [name='voucher_theme_id'][value='7']
+2024-03-11 11:09:32 INFO  TestBase:85 - Found element by : By.cssSelector: [name='voucher_theme_id'][value='7']
+2024-03-11 11:09:32 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (bc38b358ec2fd3cbd1d782800cb37838)] -> css selector: [name='voucher_theme_id'][value='7']]
+2024-03-11 11:09:32 INFO  TestBase:79 - Finding element by : By.id: input-message
+2024-03-11 11:09:32 INFO  TestBase:85 - Found element by : By.id: input-message
+2024-03-11 11:09:32 INFO  TestBase:79 - Finding element by : By.id: input-amount
+2024-03-11 11:09:32 INFO  TestBase:85 - Found element by : By.id: input-amount
+2024-03-11 11:09:32 INFO  TestBase:79 - Finding element by : By.id: input-amount
+2024-03-11 11:09:32 INFO  TestBase:85 - Found element by : By.id: input-amount
+2024-03-11 11:09:32 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-11 11:09:32 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'checkbox'][value='1']
+2024-03-11 11:09:32 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (bc38b358ec2fd3cbd1d782800cb37838)] -> css selector: [type = 'checkbox'][value='1']]
+2024-03-11 11:09:33 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-11 11:09:33 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-11 11:09:33 INFO  TestBase:79 - Finding element by : By.xpath: //p[contains(text(),'Thank you')]
+2024-03-11 11:09:33 INFO  TestBase:85 - Found element by : By.xpath: //p[contains(text(),'Thank you')]
+2024-03-11 11:09:34 INFO  TestBase:150 - Getting text from element  : Thank you for purchasing a gift certificate! Once you have completed your order your gift certificate recipient will be sent an e-mail with details how to redeem their gift certificate.
+2024-03-11 11:09:34 INFO  TestBase:156 - Geot text from element  : Thank you for purchasing a gift certificate! Once you have completed your order your gift certificate recipient will be sent an e-mail with details how to redeem their gift certificate.
+2024-03-11 17:33:56 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 17:33:56 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 17:33:59 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 17:34:00 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-11 17:34:00 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-11 17:34:00 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (28c2df183476168a69ace42ceffcfc76)] -> css selector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a]
+2024-03-11 17:34:01 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-11 17:34:01 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-11 17:34:01 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-11 17:34:01 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-11 17:34:02 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-11 17:34:02 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-11 17:34:02 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (28c2df183476168a69ace42ceffcfc76)] -> css selector: #content div>div form>input]
+2024-03-11 17:34:03 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>ul:last-of-type>li
+2024-03-11 17:44:17 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 17:44:17 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 17:44:20 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 17:44:20 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-11 17:44:20 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-11 17:44:20 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (6ec8c4ef977a830104571b425ffb1b78)] -> css selector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a]
+2024-03-11 17:44:21 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-11 17:44:21 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-11 17:44:22 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-11 17:44:22 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-11 17:44:22 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-11 17:44:22 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-11 17:44:22 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (6ec8c4ef977a830104571b425ffb1b78)] -> css selector: #content div>div form>input]
+2024-03-11 17:44:23 INFO  TestBase:79 - Finding element by : By.cssSelector: #account-account>ul>li:last-of-type
+2024-03-11 17:53:43 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 17:53:43 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 17:53:45 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 17:53:46 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-11 17:53:46 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-11 17:53:46 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (658beabbd8e1541d14f1720adb4b393c)] -> css selector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a]
+2024-03-11 17:53:46 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-11 17:53:47 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-11 17:53:47 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-11 17:53:47 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-11 17:53:47 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-11 17:53:47 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-11 17:53:47 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (658beabbd8e1541d14f1720adb4b393c)] -> css selector: #content div>div form>input]
+2024-03-11 17:53:48 INFO  TestBase:79 - Finding element by : By.cssSelector: input[type='radio'][value='1']
+2024-03-11 17:53:48 INFO  TestBase:85 - Found element by : By.cssSelector: input[type='radio'][value='1']
+2024-03-11 17:53:48 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (658beabbd8e1541d14f1720adb4b393c)] -> css selector: input[type='radio'][value='1']]
+2024-03-11 17:53:48 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-11 17:53:48 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-11 17:53:48 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (658beabbd8e1541d14f1720adb4b393c)] -> css selector: [type = 'submit'][value='Continue']]
+2024-03-11 17:53:49 INFO  TestBase:79 - Finding element by : By.cssSelector: #account-account>div>i
+2024-03-11 17:53:49 INFO  TestBase:85 - Found element by : By.cssSelector: #account-account>div>i
+2024-03-11 17:53:49 INFO  TestBase:150 - Getting text from element  : 
+2024-03-11 17:53:49 INFO  TestBase:156 - Geot text from element  : 
+2024-03-11 17:57:07 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 17:57:07 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 17:57:09 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 17:57:10 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-11 17:57:10 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-11 17:57:10 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (f06098b0ba3b2b91adea018a480dd71f)] -> css selector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a]
+2024-03-11 17:57:11 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-11 17:57:11 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-11 17:57:11 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-11 17:57:11 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-11 17:57:11 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-11 17:57:11 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-11 17:57:11 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (f06098b0ba3b2b91adea018a480dd71f)] -> css selector: #content div>div form>input]
+2024-03-11 17:57:12 INFO  TestBase:79 - Finding element by : By.cssSelector: input[type='radio'][value='1']
+2024-03-11 17:57:12 INFO  TestBase:85 - Found element by : By.cssSelector: input[type='radio'][value='1']
+2024-03-11 17:57:12 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (f06098b0ba3b2b91adea018a480dd71f)] -> css selector: input[type='radio'][value='1']]
+2024-03-11 17:57:12 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-11 17:57:12 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-11 17:57:12 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (f06098b0ba3b2b91adea018a480dd71f)] -> css selector: [type = 'submit'][value='Continue']]
+2024-03-11 17:57:13 INFO  TestBase:79 - Finding element by : By.cssSelector: #account-account>div
+2024-03-11 17:57:13 INFO  TestBase:85 - Found element by : By.cssSelector: #account-account>div
+2024-03-11 17:57:13 INFO  TestBase:150 - Getting text from element  : Success: Your newsletter subscription has been successfully updated!
+2024-03-11 17:57:13 INFO  TestBase:156 - Geot text from element  : Success: Your newsletter subscription has been successfully updated!
+2024-03-11 17:58:24 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 17:58:24 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 17:58:25 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 17:58:25 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-11 17:58:27 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-11 17:58:27 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (162cac0923e9823b87b36f0380c352e0)] -> css selector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a]
+2024-03-11 17:58:28 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-11 17:58:28 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-11 17:58:28 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-11 17:58:28 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-11 17:58:28 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-11 17:58:28 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-11 17:58:28 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (162cac0923e9823b87b36f0380c352e0)] -> css selector: #content div>div form>input]
+2024-03-11 17:58:29 INFO  TestBase:79 - Finding element by : By.cssSelector: input[type='radio'][value='0']
+2024-03-11 17:58:29 INFO  TestBase:85 - Found element by : By.cssSelector: input[type='radio'][value='0']
+2024-03-11 17:58:29 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (162cac0923e9823b87b36f0380c352e0)] -> css selector: input[type='radio'][value='0']]
+2024-03-11 17:58:29 INFO  TestBase:79 - Finding element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-11 17:58:29 INFO  TestBase:85 - Found element by : By.cssSelector: [type = 'submit'][value='Continue']
+2024-03-11 17:58:29 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (162cac0923e9823b87b36f0380c352e0)] -> css selector: [type = 'submit'][value='Continue']]
+2024-03-11 17:58:30 INFO  TestBase:79 - Finding element by : By.cssSelector: #account-account>div
+2024-03-11 17:58:30 INFO  TestBase:85 - Found element by : By.cssSelector: #account-account>div
+2024-03-11 17:58:30 INFO  TestBase:150 - Getting text from element  : Success: Your newsletter subscription has been successfully updated!
+2024-03-11 17:58:30 INFO  TestBase:156 - Geot text from element  : Success: Your newsletter subscription has been successfully updated!
+2024-03-11 18:53:00 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 18:53:00 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 18:53:04 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 18:53:04 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-11 18:55:44 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 18:55:44 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 18:55:47 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 18:55:47 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:first-of-type>a
+2024-03-11 18:55:47 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:first-of-type>a
+2024-03-11 18:55:47 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (65111cfe6bf0cb7e47f727bc4449b302)] -> css selector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:first-of-type>a]
+2024-03-11 18:55:48 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-11 18:55:48 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-11 18:55:49 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-11 18:55:49 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-11 18:55:49 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-11 18:55:49 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-11 18:55:49 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (65111cfe6bf0cb7e47f727bc4449b302)] -> css selector: #content div>div form>input]
+2024-03-11 18:55:50 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-inline>li:nth-of-type(2)
+2024-03-11 18:55:50 INFO  TestBase:85 - Found element by : By.cssSelector: .list-inline>li:nth-of-type(2)
+2024-03-11 18:55:50 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (65111cfe6bf0cb7e47f727bc4449b302)] -> css selector: .list-inline>li:nth-of-type(2)]
+2024-03-11 18:55:50 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-inline>li:nth-of-type(2)>ul>li:last-of-type
+2024-03-11 18:55:50 INFO  TestBase:85 - Found element by : By.cssSelector: .list-inline>li:nth-of-type(2)>ul>li:last-of-type
+2024-03-11 18:55:50 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (65111cfe6bf0cb7e47f727bc4449b302)] -> css selector: .list-inline>li:nth-of-type(2)>ul>li:last-of-type]
+2024-03-11 18:55:51 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>h1
+2024-03-11 18:55:51 INFO  TestBase:85 - Found element by : By.cssSelector: #content>h1
+2024-03-11 18:55:51 INFO  TestBase:150 - Getting text from element  : Account Logout
+2024-03-11 18:55:51 INFO  TestBase:156 - Geot text from element  : Account Logout
+2024-03-11 20:23:33 INFO  TestBase:44 - Loading Page in Browser
+2024-03-11 20:23:33 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-11 20:23:36 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 15:45:22 INFO  TestBase:44 - Loading Page in Browser
+2024-03-12 15:45:22 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 15:45:25 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 15:45:26 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-12 15:45:26 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-12 15:45:26 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (35815b086b8fa7b960807ac2ba6ce644)] -> css selector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a]
+2024-03-12 15:45:27 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-12 15:45:27 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-12 15:45:27 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-12 15:45:27 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-12 15:45:27 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-12 15:45:27 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-12 15:45:27 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (35815b086b8fa7b960807ac2ba6ce644)] -> css selector: #content div>div form>input]
+2024-03-12 15:45:28 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>ul:last-of-type>li
+2024-03-12 15:51:15 INFO  TestBase:44 - Loading Page in Browser
+2024-03-12 15:51:15 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 15:51:19 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 15:51:19 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-12 15:51:19 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-12 15:51:19 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (78dddea7721c755e35f127297311e891)] -> css selector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a]
+2024-03-12 15:51:20 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-12 15:51:20 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-12 15:51:21 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-12 15:51:21 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-12 15:51:21 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-12 15:51:21 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-12 15:51:21 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (78dddea7721c755e35f127297311e891)] -> css selector: #content div>div form>input]
+2024-03-12 15:51:22 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>ul:last-of-type>li
+2024-03-12 15:55:14 INFO  TestBase:44 - Loading Page in Browser
+2024-03-12 15:55:14 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 15:55:17 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 15:55:17 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-12 15:55:17 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-12 15:55:17 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (c1e7d808213fdad2497fa63253b54b79)] -> css selector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a]
+2024-03-12 15:55:18 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-12 15:55:18 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-12 15:55:18 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-12 15:55:18 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-12 15:55:18 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-12 15:55:18 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-12 15:55:18 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (c1e7d808213fdad2497fa63253b54b79)] -> css selector: #content div>div form>input]
+2024-03-12 16:00:39 INFO  TestBase:44 - Loading Page in Browser
+2024-03-12 16:00:39 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 16:00:42 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 16:00:42 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-12 16:00:42 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-12 16:00:42 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (86eb433a0e215bd9afe5a9de33397f10)] -> css selector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a]
+2024-03-12 16:00:43 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-12 16:00:43 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-12 16:00:44 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-12 16:00:44 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-12 16:00:44 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-12 16:00:44 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-12 16:00:44 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (86eb433a0e215bd9afe5a9de33397f10)] -> css selector: #content div>div form>input]
+2024-03-12 16:44:41 INFO  TestBase:44 - Loading Page in Browser
+2024-03-12 16:44:41 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 16:44:44 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 16:44:44 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-12 16:44:44 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-12 16:44:44 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (2a927572f2d3898182b1697c38aa2dd2)] -> css selector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a]
+2024-03-12 16:44:45 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-12 16:44:45 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-12 16:44:45 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-12 16:44:45 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-12 16:44:45 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-12 16:44:46 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-12 16:44:46 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (2a927572f2d3898182b1697c38aa2dd2)] -> css selector: #content div>div form>input]
+2024-03-12 16:44:46 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>h1
+2024-03-12 16:44:46 INFO  TestBase:85 - Found element by : By.cssSelector: #content>h1
+2024-03-12 16:44:47 INFO  TestBase:150 - Getting text from element  : Newsletter Subscription
+2024-03-12 16:44:47 INFO  TestBase:156 - Geot text from element  : Newsletter Subscription
+2024-03-12 16:51:46 INFO  TestBase:44 - Loading Page in Browser
+2024-03-12 16:51:46 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 16:51:49 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 16:51:49 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-12 16:51:49 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-12 16:51:49 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (340ef55f8880037679acbb7fe719f6ba)] -> css selector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a]
+2024-03-12 16:51:50 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-12 16:51:50 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-12 16:51:50 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-12 16:51:50 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-12 16:51:51 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-12 16:51:51 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-12 16:51:51 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (340ef55f8880037679acbb7fe719f6ba)] -> css selector: #content div>div form>input]
+2024-03-12 16:51:51 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>h1
+2024-03-12 16:51:51 INFO  TestBase:85 - Found element by : By.cssSelector: #content>h1
+2024-03-12 16:51:52 INFO  TestBase:150 - Getting text from element  : Newsletter Subscription
+2024-03-12 16:51:52 INFO  TestBase:156 - Geot text from element  : Newsletter Subscription
+2024-03-12 17:12:25 INFO  TestBase:44 - Loading Page in Browser
+2024-03-12 17:12:25 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 17:12:28 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 17:12:28 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-12 17:12:28 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a
+2024-03-12 17:12:28 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (138ac8f1731aea573dc34378bd726f90)] -> css selector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(4)>a]
+2024-03-12 17:12:29 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-12 17:12:29 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-12 17:12:29 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-12 17:12:29 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-12 17:12:30 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-12 17:12:30 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-12 17:12:30 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (138ac8f1731aea573dc34378bd726f90)] -> css selector: #content div>div form>input]
+2024-03-12 17:12:30 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>h2
+2024-03-12 17:15:51 INFO  TestBase:44 - Loading Page in Browser
+2024-03-12 17:15:51 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 17:15:54 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 17:15:54 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(2)>a
+2024-03-12 17:15:54 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(2)>a
+2024-03-12 17:15:54 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (b0dbb2e17f7ada84f9f6fc67a89cee8c)] -> css selector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(2)>a]
+2024-03-12 17:15:55 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-12 17:15:55 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-12 17:15:56 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-12 17:15:56 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-12 17:15:56 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-12 17:15:56 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-12 17:15:56 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (b0dbb2e17f7ada84f9f6fc67a89cee8c)] -> css selector: #content div>div form>input]
+2024-03-12 17:15:57 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>h1
+2024-03-12 17:15:57 INFO  TestBase:85 - Found element by : By.cssSelector: #content>h1
+2024-03-12 17:15:57 INFO  TestBase:150 - Getting text from element  : Order History
+2024-03-12 17:15:57 INFO  TestBase:156 - Geot text from element  : Order History
+2024-03-12 17:16:48 INFO  TestBase:44 - Loading Page in Browser
+2024-03-12 17:16:48 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 17:16:51 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 17:16:51 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(3)>a
+2024-03-12 17:16:51 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(3)>a
+2024-03-12 17:16:51 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (3a81dc855c9695422db88a367b548801)] -> css selector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:nth-of-type(3)>a]
+2024-03-12 17:16:52 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-12 17:16:52 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-12 17:16:53 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-12 17:16:53 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-12 17:16:53 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-12 17:16:53 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-12 17:16:53 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (3a81dc855c9695422db88a367b548801)] -> css selector: #content div>div form>input]
+2024-03-12 17:16:54 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>h2
+2024-03-12 17:16:54 INFO  TestBase:85 - Found element by : By.cssSelector: #content>h2
+2024-03-12 17:16:54 INFO  TestBase:150 - Getting text from element  : My Wish List
+2024-03-12 17:16:54 INFO  TestBase:156 - Geot text from element  : My Wish List
+2024-03-12 18:40:15 INFO  TestBase:44 - Loading Page in Browser
+2024-03-12 18:40:15 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 18:40:19 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 18:40:19 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:first-of-type>a
+2024-03-12 18:40:19 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:first-of-type>a
+2024-03-12 18:40:19 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (fb4e07da21b01fb9bb826dac704ac73e)] -> css selector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:first-of-type>a]
+2024-03-12 18:40:20 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-12 18:40:20 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-12 18:40:20 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-12 18:40:20 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-12 18:40:20 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-12 18:40:20 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-12 18:40:20 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (fb4e07da21b01fb9bb826dac704ac73e)] -> css selector: #content div>div form>input]
+2024-03-12 18:40:21 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:150 - Getting text from element  : My Account
+2024-03-12 18:40:22 INFO  TestBase:156 - Geot text from element  : My Account
+2024-03-12 18:40:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:150 - Getting text from element  : Edit Account
+2024-03-12 18:40:22 INFO  TestBase:156 - Geot text from element  : Edit Account
+2024-03-12 18:40:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:150 - Getting text from element  : Password
+2024-03-12 18:40:22 INFO  TestBase:156 - Geot text from element  : Password
+2024-03-12 18:40:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:150 - Getting text from element  : Address Book
+2024-03-12 18:40:22 INFO  TestBase:156 - Geot text from element  : Address Book
+2024-03-12 18:40:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:150 - Getting text from element  : Wish List
+2024-03-12 18:40:22 INFO  TestBase:156 - Geot text from element  : Wish List
+2024-03-12 18:40:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:150 - Getting text from element  : Order History
+2024-03-12 18:40:22 INFO  TestBase:156 - Geot text from element  : Order History
+2024-03-12 18:40:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:150 - Getting text from element  : Downloads
+2024-03-12 18:40:22 INFO  TestBase:156 - Geot text from element  : Downloads
+2024-03-12 18:40:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:150 - Getting text from element  : Recurring payments
+2024-03-12 18:40:22 INFO  TestBase:156 - Geot text from element  : Recurring payments
+2024-03-12 18:40:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:150 - Getting text from element  : Reward Points
+2024-03-12 18:40:22 INFO  TestBase:156 - Geot text from element  : Reward Points
+2024-03-12 18:40:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:40:22 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (fb4e07da21b01fb9bb826dac704ac73e)] -> css selector: .list-group>a]
+2024-03-12 18:40:23 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>h1
+2024-03-12 18:40:23 INFO  TestBase:85 - Found element by : By.cssSelector: #content>h1
+2024-03-12 18:40:23 INFO  TestBase:150 - Getting text from element  : Your Reward Points
+2024-03-12 18:40:23 INFO  TestBase:156 - Geot text from element  : Your Reward Points
+2024-03-12 18:45:44 INFO  TestBase:44 - Loading Page in Browser
+2024-03-12 18:45:44 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 18:45:47 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 18:45:47 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:first-of-type>a
+2024-03-12 18:45:47 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:first-of-type>a
+2024-03-12 18:45:47 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (c259db5703ccaef28ca4bf48b18c20dc)] -> css selector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:first-of-type>a]
+2024-03-12 18:45:48 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-12 18:45:48 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-12 18:45:48 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-12 18:45:48 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-12 18:45:48 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-12 18:45:48 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-12 18:45:48 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (c259db5703ccaef28ca4bf48b18c20dc)] -> css selector: #content div>div form>input]
+2024-03-12 18:45:49 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:49 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:49 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:49 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:49 INFO  TestBase:150 - Getting text from element  : My Account
+2024-03-12 18:45:49 INFO  TestBase:156 - Geot text from element  : My Account
+2024-03-12 18:45:49 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:49 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:49 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:49 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:49 INFO  TestBase:150 - Getting text from element  : Edit Account
+2024-03-12 18:45:49 INFO  TestBase:156 - Geot text from element  : Edit Account
+2024-03-12 18:45:49 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:49 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:49 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:49 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:49 INFO  TestBase:150 - Getting text from element  : Password
+2024-03-12 18:45:49 INFO  TestBase:156 - Geot text from element  : Password
+2024-03-12 18:45:49 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:150 - Getting text from element  : Address Book
+2024-03-12 18:45:50 INFO  TestBase:156 - Geot text from element  : Address Book
+2024-03-12 18:45:50 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:150 - Getting text from element  : Wish List
+2024-03-12 18:45:50 INFO  TestBase:156 - Geot text from element  : Wish List
+2024-03-12 18:45:50 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:150 - Getting text from element  : Order History
+2024-03-12 18:45:50 INFO  TestBase:156 - Geot text from element  : Order History
+2024-03-12 18:45:50 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:150 - Getting text from element  : Downloads
+2024-03-12 18:45:50 INFO  TestBase:156 - Geot text from element  : Downloads
+2024-03-12 18:45:50 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:150 - Getting text from element  : Recurring payments
+2024-03-12 18:45:50 INFO  TestBase:156 - Geot text from element  : Recurring payments
+2024-03-12 18:45:50 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:150 - Getting text from element  : Reward Points
+2024-03-12 18:45:50 INFO  TestBase:156 - Geot text from element  : Reward Points
+2024-03-12 18:45:50 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:45:50 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (c259db5703ccaef28ca4bf48b18c20dc)] -> css selector: .list-group>a]
+2024-03-12 18:45:51 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>h1
+2024-03-12 18:45:51 INFO  TestBase:85 - Found element by : By.cssSelector: #content>h1
+2024-03-12 18:45:51 INFO  TestBase:150 - Getting text from element  : Your Reward Points
+2024-03-12 18:45:51 INFO  TestBase:156 - Geot text from element  : Your Reward Points
+2024-03-12 18:49:16 INFO  TestBase:44 - Loading Page in Browser
+2024-03-12 18:49:16 INFO  TestBase:37 - Navigating to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 18:49:19 INFO  TestBase:43 - Navigated to URL : https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2024-03-12 18:49:19 INFO  TestBase:79 - Finding element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:first-of-type>a
+2024-03-12 18:49:19 INFO  TestBase:85 - Found element by : By.cssSelector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:first-of-type>a
+2024-03-12 18:49:19 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (9c736cf2db1823a09f0676229f216989)] -> css selector: div.row>div:nth-of-type(4)>ul.list-unstyled>li:first-of-type>a]
+2024-03-12 18:49:20 INFO  TestBase:79 - Finding element by : By.id: input-email
+2024-03-12 18:49:20 INFO  TestBase:85 - Found element by : By.id: input-email
+2024-03-12 18:49:20 INFO  TestBase:79 - Finding element by : By.id: input-password
+2024-03-12 18:49:20 INFO  TestBase:85 - Found element by : By.id: input-password
+2024-03-12 18:49:20 INFO  TestBase:79 - Finding element by : By.cssSelector: #content div>div form>input
+2024-03-12 18:49:20 INFO  TestBase:85 - Found element by : By.cssSelector: #content div>div form>input
+2024-03-12 18:49:20 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (9c736cf2db1823a09f0676229f216989)] -> css selector: #content div>div form>input]
+2024-03-12 18:49:21 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:21 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:21 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:21 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:21 INFO  TestBase:150 - Getting text from element  : My Account
+2024-03-12 18:49:21 INFO  TestBase:156 - Geot text from element  : My Account
+2024-03-12 18:49:21 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:21 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:21 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:21 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:21 INFO  TestBase:150 - Getting text from element  : Edit Account
+2024-03-12 18:49:21 INFO  TestBase:156 - Geot text from element  : Edit Account
+2024-03-12 18:49:21 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:21 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:21 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:21 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:21 INFO  TestBase:150 - Getting text from element  : Password
+2024-03-12 18:49:21 INFO  TestBase:156 - Geot text from element  : Password
+2024-03-12 18:49:21 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:21 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:21 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:21 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:21 INFO  TestBase:150 - Getting text from element  : Address Book
+2024-03-12 18:49:22 INFO  TestBase:156 - Geot text from element  : Address Book
+2024-03-12 18:49:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:150 - Getting text from element  : Wish List
+2024-03-12 18:49:22 INFO  TestBase:156 - Geot text from element  : Wish List
+2024-03-12 18:49:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:150 - Getting text from element  : Order History
+2024-03-12 18:49:22 INFO  TestBase:156 - Geot text from element  : Order History
+2024-03-12 18:49:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:150 - Getting text from element  : Downloads
+2024-03-12 18:49:22 INFO  TestBase:156 - Geot text from element  : Downloads
+2024-03-12 18:49:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:150 - Getting text from element  : Recurring payments
+2024-03-12 18:49:22 INFO  TestBase:156 - Geot text from element  : Recurring payments
+2024-03-12 18:49:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:150 - Getting text from element  : Reward Points
+2024-03-12 18:49:22 INFO  TestBase:156 - Geot text from element  : Reward Points
+2024-03-12 18:49:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:150 - Getting text from element  : Returns
+2024-03-12 18:49:22 INFO  TestBase:156 - Geot text from element  : Returns
+2024-03-12 18:49:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:150 - Getting text from element  : Transactions
+2024-03-12 18:49:22 INFO  TestBase:156 - Geot text from element  : Transactions
+2024-03-12 18:49:22 INFO  TestBase:79 - Finding element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:85 - Found element by : By.cssSelector: .list-group>a
+2024-03-12 18:49:22 INFO  TestBase:91 - Clicking on element by : [[EdgeDriver: MicrosoftEdge on WINDOWS (9c736cf2db1823a09f0676229f216989)] -> css selector: .list-group>a]
+2024-03-12 18:49:23 INFO  TestBase:79 - Finding element by : By.cssSelector: #content>h1
+2024-03-12 18:49:23 INFO  TestBase:85 - Found element by : By.cssSelector: #content>h1
+2024-03-12 18:49:23 INFO  TestBase:150 - Getting text from element  : Your Transactions
+2024-03-12 18:49:23 INFO  TestBase:156 - Geot text from element  : Your Transactions
+2024-03-12 22:14:50 INFO  TestBase:79 - Finding element by : By.id: input-firstname
