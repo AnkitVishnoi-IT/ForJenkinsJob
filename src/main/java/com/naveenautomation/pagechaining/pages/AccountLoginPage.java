@@ -65,35 +65,4 @@ public class AccountLoginPage extends TestBase {
 		return new MyAccountPage();
 	}
 
-	public ForgotPasswordPage clickForgotPwdLink() {
-		forgottenPwdLink.click();
-		return new ForgotPasswordPage();
-	}
-
-	
-	public RegisterAccountPage clickRegisterationBtn() {
-		registerationBtn.click();
-		return new RegisterAccountPage();
-	}
-	
-	public NewsLetterPage submitLoginForNewsLetterLink(String email, String pwd) {
-		enterEmail(email);
-		enterPwd(pwd);
-		clickLogin();
-		return new NewsLetterPage();
-	}
-	
-	public OrderHistoryPage submitLoginForOrderHistoryLink(String email, String pwd) {
-		enterEmail(email);
-		enterPwd(pwd);
-		clickLogin();
-		return new OrderHistoryPage();
-	}
-	
-	public MyWishListPage submitLoginForWishListLink(String email, String pwd) {
-		enterEmail(email);
-		enterPwd(pwd);
-		clickLogin();
-		return new MyWishListPage();
-	}
 }

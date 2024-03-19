@@ -122,11 +122,6 @@ public class MyAccountPage extends TestBase {
 		return new AccountLogoutPage();
 	}
 
-	public ChangePwdPage clickChangePasswordBtn() {
-		changePwdBtn.click();
-		return new ChangePwdPage();
-	}
-
 	public AddressBookPage clickAddressBookInSideNavMenu(String item) {
 		for (int i = 0; i < sideNavMenuList.size(); i++) {
 			if (sideNavMenuList.get(i).getText().equalsIgnoreCase(item)) {
@@ -137,39 +132,14 @@ public class MyAccountPage extends TestBase {
 		return new AddressBookPage();
 	}
 
-	public RewardPointsPage clickRewardPointsInSideNavMenu(String item) {
-		for (int i = 0; i < sideNavMenuList.size(); i++) {
-			if (sideNavMenuList.get(i).getText().equalsIgnoreCase(item)) {
-				sideNavMenuList.get(i).click();
-				break;
-			}
-		}
-		return new RewardPointsPage();
+	public ChangePwdPage clickChangePasswordBtn() {
+		changePwdBtn.click();
+		return new ChangePwdPage();
 	}
-
-	public TransactionsPage clickTransactionsInSideNavMenu(String item) {
-		for (int i = 0; i < sideNavMenuList.size(); i++) {
-			if (sideNavMenuList.get(i).getText().equalsIgnoreCase(item)) {
-				sideNavMenuList.get(i).click();
-				break;
-			}
-		}
-		return new TransactionsPage();
-	}
-
+	
 	public String getAccountCreationConfirmationText() {
 		return accountCreationConfirmationText.getText();
 	}
 
-	public NewsLetterPage clickOnNewsLetterLink() {
-		newsLetterLink.click();
-		return new NewsLetterPage();
-	}
-
-	public DesktopPage clickShowAllDesktop(String category) {
-		desktopsLink.click();
-		showAllInDesktopDropDown.click();
-		return new DesktopPage();
-	}
 
 }

@@ -135,55 +135,6 @@ public class HomePage extends TestBase {
 		return new AboutUsPage();
 	}
 
-	public DeliveryInformationPage clickDeliveryInformationLink() {
-		deliveryInformationLink.click();
-		return new DeliveryInformationPage();
-	}
-
-	public PrivacyPolicyPage clickPrivacyPolicyLink() {
-		privacyPolicyLink.click();
-		return new PrivacyPolicyPage();
-	}
-
-	public TermsNCondPage clickTermsNCondLink() {
-		termsNConfLink.click();
-		return new TermsNCondPage();
-	}
-
-	public ContactUsPage ClickContactUsLink() {
-		contactUsLink.click();
-		return new ContactUsPage();
-	}
-
-	public ReturnPage clickReturnsLink() {
-		returnsLink.click();
-		return new ReturnPage();
-	}
-
-	public SiteMapPage clickSiteMapLink() {
-		siteMapLink.click();
-		return new SiteMapPage();
-	}
-
-	public BrandsPage clickBrandsLink() {
-		brandsLink.click();
-		return new BrandsPage();
-	}
-
-	public GiftCertificatesPage clickGiftCertificatesLink() {
-		giftCertificateLink.click();
-		return new GiftCertificatesPage();
-	}
-
-	public AffiliateLoginPage clickAffiliateLink() {
-		affiliateLink.click();
-		return new AffiliateLoginPage();
-	}
-
-	public SpecialOfferPage clickSpecialsLink() {
-		specialsLink.click();
-		return new SpecialOfferPage();
-	}
 
 	public AccountLoginPage clickMyAccountLink() {
 		myAcctLink.click();

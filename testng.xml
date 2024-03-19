@@ -11,7 +11,7 @@
 		<classes>
 			<class name="com.naveenautomation.pagechaining.tests.AccountLoginPageTest" />
 			<class name="com.naveenautomation.pagechaining.tests.MyAccountPageTest" />
-			<class name="com.naveenautomation.pagechaining.tests.GiftCertificatesPageTest" />
+			
 			
 		</classes>
 	</test> <!-- Test -->

@@ -3,13 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.naveenautomation.pagechaining.tests.ReturnPageTest">
+      <class name="com.naveenautomation.pagechaining.tests.HpLP3065PageTest">
         <methods>
+          <include name="validateProductAddedToCart"/>
+          <include name="closeBrowser"/>
           <include name="setUpLogger"/>
-          <include name="validateReturnPageNavigation"/>
           <include name="launchBrowser"/>
         </methods>
-      </class> <!-- com.naveenautomation.pagechaining.tests.ReturnPageTest -->
+      </class> <!-- com.naveenautomation.pagechaining.tests.HpLP3065PageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
