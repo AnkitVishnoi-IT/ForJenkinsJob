@@ -22,6 +22,8 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class TestBase {
 
 	public static WebDriver driver;
+	private static String browserName = System.getProperty("browser");
+	private static String environmentUrl = System.getProperty("environment");
 	private static Browsers DEFAULT_BROWSER = Browsers.EDGE;
 	private static Environment DEFAULT_ENV=Environment.PROD;
 	public static Logger logger;
@@ -43,6 +45,7 @@ public class TestBase {
 		driverManagement();
 		logger.info("Loading Page in Browser");
 		driver.get(DEFAULT_ENV.getEnvUrl());
+		
 	}
 
 	private void driverManagement() {
@@ -51,8 +54,11 @@ public class TestBase {
 	}
 
 	private void setBrowserForTesting() {
+		
+		DEFAULT_BROWSER= (browserName==null)? Browsers.EDGE : Browsers.valueOf(browserName.toUpperCase());
+		
 		switch (DEFAULT_BROWSER) {
-		case CHROME:
+		case CHROME:;
 			WebDriverManager.chromedriver().setup();
 			driver = new ChromeDriver();
 			break;
@@ -79,6 +85,12 @@ public class TestBase {
 				driver=eDriver;
 	}
 		
+	
+	
+//	private static boolean isRunningOnJenkins() {
+//		// Check if a Jenkins-specific environment variable is set
+//		return System.getenv("JENKINS_HOME") != null;
+//	}
 	
 	public void tearDown() {
 		driver.close();
